@@ -1,5 +1,11 @@
 # Acid Rain
 
+## Mise à jour 1.0.3 : retrait de Sleep Deprived
+
+**Sleep Deprived 1.1.2** et sa configuration ont été retirés à la demande de l’administratrice, à la suite de problèmes signalés chez certains joueurs. Les instances suivies par packwiz suppriment automatiquement le JAR à leur prochain lancement. Les joueurs gardent leur instance Prism et le ZIP actuel reste utilisable pour les nouvelles installations.
+
+Pour désactiver aussi le mod sur le serveur, arrête-le chez ton hébergeur, retire `mods/sleep_deprived-1.1.2-forge-1.20.1.jar`, puis redémarre-le. La publication GitHub ne modifie pas les fichiers de l’hébergeur.
+
 ## Ajout 1.0.2 : Corpse x Curios API Compat
 
 Ajout de **Corpse x Curios API Compat 3.1.3** et **BaguetteLib 1.1.6**, tous deux marqués comme fichiers de serveur. Les joueurs gardent leur instance Prism actuelle et n’ont aucun téléchargement individuel à effectuer pour cet ajout.
@@ -23,11 +29,11 @@ Pack destiné aux joueurs du serveur Acid Rain de VoltalyBee.
 - Minecraft : **1.20.1**
 - Forge : **47.4.23**
 - Version initiale du pack : **1.0.0**
-- Contenu : **78 fichiers de mods, 4 shaders et 1 pack de ressources**
+- Contenu actuel : **77 fichiers de mods pour les joueurs, 2 ajouts pour le serveur, 4 shaders et 1 pack de ressources**
 
 Les références correspondent aux fichiers exacts de l’export Prism fourni le 2 octobre 2026. Les mods et shaders se téléchargent depuis Modrinth ou CurseForge. Le dépôt contient leurs références, les empreintes de contrôle et les configurations du pack.
 
-Consulte [INVENTAIRE.md](INVENTAIRE.md) pour la liste complète et les liens de chaque version. Le dossier `docs` contient le pack destiné à GitHub Pages. `INVENTAIRE.json` conserve l’inventaire initial détaillé ; il faut le mettre à jour lors d’une évolution du contenu.
+Consulte [INVENTAIRE.md](INVENTAIRE.md) pour la liste complète et les liens de chaque version. Le dossier `docs` contient le pack destiné à GitHub Pages. `INVENTAIRE.json` conserve l’inventaire actuel détaillé ; il faut le mettre à jour lors d’une évolution du contenu.
 
 ## Publier le pack
 

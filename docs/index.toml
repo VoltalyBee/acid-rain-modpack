@@ -451,10 +451,6 @@ hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 preserve = true
 
 [[files]]
-file = "config/sleep-deprived-common.toml"
-hash = "51cc9f128283b9496b414794277bdd65fe1e4eb76df5cd5ea5726947e70c3a7f"
-
-[[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "347434fce931147ef1b31896190829a06a857a561eab04e28354af67f3894564"
 preserve = true
@@ -898,11 +894,6 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "603d6e8786ee1dab319aa2b9617058ea350c879730f48741bf03b9c68221e043"
-metafile = true
-
-[[files]]
-file = "mods/sleep_deprived.pw.toml"
-hash = "fdd25af0082742cb375d97e9c2222cf30d312c4b96a05342a9c4d73ed48579c0"
 metafile = true
 
 [[files]]

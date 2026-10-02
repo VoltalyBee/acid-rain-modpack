@@ -1,16 +1,16 @@
 # Inventaire Acid Rain
 
-Export reçu le 2 octobre 2026 : **78 fichiers de mods pour les joueurs, 2 ajouts pour le serveur, 4 shaders et 1 pack de ressources**.
+Inventaire mis à jour le 2 octobre 2026 : **77 fichiers de mods pour les joueurs, 2 ajouts pour le serveur, 4 shaders et 1 pack de ressources**.
 
-Minecraft **1.20.1** · Forge **47.4.23** · Pack **1.0.2**.
+Minecraft **1.20.1** · Forge **47.4.23** · Pack **1.0.3**.
 
-Les références de téléchargement ont été identifiées à partir des empreintes des fichiers de l’export. 82 fichiers de contenu sont inchangés. Easy NPC Bundle reste en 7.12.1 et provient désormais du Modrinth officiel ; seul son horodatage de compilation diffère.
+Les références de téléchargement ont été identifiées à partir des empreintes des fichiers de l’export. 81 fichiers de contenu de l’export sont inchangés. Sleep Deprived a été retiré en 1.0.3. Easy NPC Bundle reste en 7.12.1 et provient désormais du Modrinth officiel ; seul son horodatage de compilation diffère.
 
 La version indiquée vient de Modrinth lorsqu’elle est disponible, sinon des métadonnées du JAR. Le nom du fichier et son empreinte font foi pour identifier le fichier exact.
 
 Cet inventaire décrit l’instance des joueurs fournie. La classification complète des mods nécessaires au serveur dédié demande sa propre liste de fichiers.
 
-## Mods — 78 fichiers
+## Mods — 77 fichiers
 
 | Nom | Version | Fichier exact | Source |
 | --- | --- | --- | --- |
@@ -67,7 +67,6 @@ Cet inventaire décrit l’instance des joueurs fournie. La classification compl
 | Simple Voice Chat | 1.20.1-2.6.24 | `voicechat-forge-1.20.1-2.6.24.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/8928453) |
 | Simply Swords | 1.70.2-1.20.1 | `simplyswords-forge-neoforge-1.70.2-1.20.1.jar` | [Modrinth](https://modrinth.com/mod/simply-swords) |
 | Simply Tooltips | 0.1.5-1.20.1 | `SimplyTooltips-forge-0.1.5-1.20.1.jar` | [Modrinth](https://modrinth.com/mod/simply-tooltips) |
-| Sleep Deprived | 1.1.2 | `sleep_deprived-1.1.2-forge-1.20.1.jar` | [Modrinth](https://modrinth.com/mod/sleep_deprived) |
 | Sodium Dynamic Lights | forge-1.20.1-1.0.10 | `sodiumdynamiclights-forge-1.0.10-1.20.1.jar` | [Modrinth](https://modrinth.com/mod/sodium-dynamic-lights) |
 | Sodium Options API | forge-1.20.1-1.0.10 | `sodiumoptionsapi-forge-1.0.10-1.20.1.jar` | [Modrinth](https://modrinth.com/mod/sodium-options-api) |
 | Sound Physics Remastered | 1.20.1-1.5.1 | `sound-physics-remastered-forge-1.20.1-1.5.1.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7032235) |

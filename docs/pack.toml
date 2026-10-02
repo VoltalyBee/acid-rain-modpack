@@ -1,12 +1,12 @@
 name = "Acid Rain"
 author = "VoltalyBee"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b6176e9e4a5854c5fcc970360911646b6cfbcdf26512b905a250bfb720a1ab9"
+hash = "bf3443ad697e527105727071fae594ae4432888bb387e0333952bbee8a11b505"
 
 [versions]
 forge = "47.4.23"

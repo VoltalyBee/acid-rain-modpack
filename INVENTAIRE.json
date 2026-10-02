@@ -1671,37 +1671,6 @@
       "metadata_path": "mods/3dskinlayers.pw.toml"
     },
     {
-      "path": "mods/sleep_deprived-1.1.2-forge-1.20.1.jar",
-      "kind": "mods",
-      "filename": "sleep_deprived-1.1.2-forge-1.20.1.jar",
-      "bytes": 203122,
-      "sha1": "df34031d12fa565a1781bbac0f75b27d0d75cec9",
-      "sha256": "f7749169d18ef5520ea6948bf59179ba877446ff30407cdcb0f7e10cbd85334a",
-      "sha512": "07ec11de46298459dea2b6419c353d07ab7f21429cd939f928a0927591ad40250840ea5cb1209e33c5228945950238e30a34d63679ab509ca34a0251a9004007",
-      "mods": [
-        {
-          "id": "sleep_deprived",
-          "name": "Sleep Deprived",
-          "version": "1.1.2",
-          "url": "https://shrt.solutions"
-        }
-      ],
-      "license": "GNU General Public License version 3 (GPLv3)",
-      "name": "Sleep Deprived",
-      "version": "1.1.2",
-      "source": "Modrinth",
-      "side": "both",
-      "project_url": "https://modrinth.com/mod/sleep_deprived",
-      "download_url": "https://cdn.modrinth.com/data/P06uanFZ/versions/56mVVeo2/sleep_deprived-1.1.2-forge-1.20.1.jar",
-      "update": {
-        "modrinth": {
-          "mod-id": "P06uanFZ",
-          "version": "56mVVeo2"
-        }
-      },
-      "metadata_path": "mods/sleep_deprived.pw.toml"
-    },
-    {
       "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
       "kind": "mods",
       "filename": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
@@ -2589,11 +2558,11 @@
       "note": "Ajout côté serveur en 1.0.2. Les instances Prism des joueurs ne téléchargent pas ce fichier."
     }
   ],
-  "version_pack": "1.0.2",
+  "version_pack": "1.0.3",
   "counts": {
-    "client_mod_files": 78,
+    "client_mod_files": 77,
     "server_addon_files": 2,
-    "total_mod_files": 80,
+    "total_mod_files": 79,
     "shader_files": 4,
     "resourcepack_files": 1
   }
