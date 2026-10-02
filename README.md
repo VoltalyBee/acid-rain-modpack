@@ -1,5 +1,11 @@
 # Acid Rain
 
+## Ajout 1.0.2 : Corpse x Curios API Compat
+
+Ajout de **Corpse x Curios API Compat 3.1.3** et **BaguetteLib 1.1.6**, tous deux marqués comme fichiers de serveur. Les joueurs gardent leur instance Prism actuelle et n’ont aucun téléchargement individuel à effectuer pour cet ajout.
+
+L’activation demande d’installer les deux JAR chez l’hébergeur, puis de redémarrer le serveur. Les étapes figurent dans [AJOUT_CURIOS_CORPSE_SERVEUR.md](AJOUT_CURIOS_CORPSE_SERVEUR.md). Les 83 références de contenu de l’instance des joueurs et leurs versions sont conservées.
+
 ## Correction 1.0.1 : installation sans téléchargement individuel
 
 Easy NPC Bundle 7.12.1 utilise maintenant le Modrinth officiel de son auteur. Le code et les ressources sont identiques au fichier de l’export ; seul l’horodatage du manifeste change.

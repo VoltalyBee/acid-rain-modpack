@@ -1059,3 +1059,13 @@ metafile = true
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "706fa92520db344333113e00c47975567aef72e6c63948edd96df48bfe953354"
 metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "af6b4f35713a0d825e760236b55a8b655c1d738e9017841c648bf58f45f3fc75"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "37c76bfed76ca7f496582c0354b64b48ea8e8ae68b24fc430db486f9f63565e5"
+metafile = true

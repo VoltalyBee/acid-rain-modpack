@@ -1,8 +1,8 @@
 # Inventaire Acid Rain
 
-Export reçu le 2 octobre 2026 : **78 fichiers de mods, 4 shaders et 1 pack de ressources**.
+Export reçu le 2 octobre 2026 : **78 fichiers de mods pour les joueurs, 2 ajouts pour le serveur, 4 shaders et 1 pack de ressources**.
 
-Minecraft **1.20.1** · Forge **47.4.23** · Pack **1.0.1**.
+Minecraft **1.20.1** · Forge **47.4.23** · Pack **1.0.2**.
 
 Les références de téléchargement ont été identifiées à partir des empreintes des fichiers de l’export. 82 fichiers de contenu sont inchangés. Easy NPC Bundle reste en 7.12.1 et provient désormais du Modrinth officiel ; seul son horodatage de compilation diffère.
 
@@ -107,3 +107,12 @@ Cet inventaire décrit l’instance des joueurs fournie. La classification compl
 | Nom | Version | Fichier exact | Source |
 | --- | --- | --- | --- |
 | Last Death Location | 1.0.2+1.20 | `Last Death Location - 1.0.2.zip` | [Modrinth](https://modrinth.com/resourcepack/last-death-location) |
+
+## Ajouts côté serveur — pack 1.0.2
+
+| Nom | Version | Fichier exact | Source |
+| --- | --- | --- | --- |
+| Corpse x Curios API Compat | 3.1.3 | `corpsecurioscompat-1.20.1-Forge-3.1.3.jar` | [Modrinth](https://modrinth.com/mod/corpse-x-curios-api-compat/version/zgt34xjo) |
+| BaguetteLib | 1.1.6 | `baguettelib-1.20.1-Forge-1.1.6.jar` | [Modrinth](https://modrinth.com/mod/baguettelib/version/vLbvKK04) |
+
+Ces deux références sont marquées `side = "server"`. Elles ne sont pas téléchargées par les instances Prism des joueurs. L’installation chez l’hébergeur est décrite dans [AJOUT_CURIOS_CORPSE_SERVEUR.md](AJOUT_CURIOS_CORPSE_SERVEUR.md).
