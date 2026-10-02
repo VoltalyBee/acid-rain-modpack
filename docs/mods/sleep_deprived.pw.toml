@@ -1,0 +1,13 @@
+name = "Sleep Deprived"
+filename = "sleep_deprived-1.1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/P06uanFZ/versions/56mVVeo2/sleep_deprived-1.1.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "07ec11de46298459dea2b6419c353d07ab7f21429cd939f928a0927591ad40250840ea5cb1209e33c5228945950238e30a34d63679ab509ca34a0251a9004007"
+
+[update.modrinth]
+mod-id = "P06uanFZ"
+version = "56mVVeo2"

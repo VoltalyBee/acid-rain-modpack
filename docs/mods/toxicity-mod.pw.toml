@@ -1,0 +1,13 @@
+name = "Toxicity"
+filename = "Toxicity-forge-0.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pPPLJpNs/versions/m9DL9Wxe/Toxicity-forge-0.1.0.jar"
+hash-format = "sha512"
+hash = "415651e8fdab6371ef06911815a6bb5fbd6777638b400b5b864d8d3d1b2011d8e620db32632d6934d679962cde2cd0077b2106c9515f3b941a2c04d1dd964d83"
+
+[update.modrinth]
+mod-id = "pPPLJpNs"
+version = "m9DL9Wxe"

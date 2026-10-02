@@ -1,0 +1,14 @@
+.git/
+*.zip
+*.jar
+*.exe
+.DS_Store
+.packwizignore
+.nojekyll
+README.md
+INVENTAIRE.md
+INVENTAIRE.json
+packwiz-installer*.jar
+packwiz*.json
+packwiz.exe
+packwiz

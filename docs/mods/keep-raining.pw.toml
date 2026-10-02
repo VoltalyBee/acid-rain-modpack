@@ -1,0 +1,13 @@
+name = "Keep Raining!"
+filename = "KeepRaining.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b50eee1a0a59e426ca4e81b08bb6ded92294444"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5012965
+project-id = 958955

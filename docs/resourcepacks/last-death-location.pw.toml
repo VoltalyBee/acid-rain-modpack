@@ -1,0 +1,13 @@
+name = "Last Death Location"
+filename = "Last Death Location - 1.0.2.zip"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zQj6JND7/versions/sppqqIg3/Last%20Death%20Location%20-%201.0.2.zip"
+hash-format = "sha512"
+hash = "34af9a205a3797b58b6e0b33b4649ab79b97340ba20f6b5610dbad8f6e81e5cb969812bd8cdff43cdef6564a83975cabc02892492ba4ec971f79c74ba5bb8f40"
+
+[update.modrinth]
+mod-id = "zQj6JND7"
+version = "sppqqIg3"

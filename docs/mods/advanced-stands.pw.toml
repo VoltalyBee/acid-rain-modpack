@@ -1,0 +1,13 @@
+name = "Advanced Stands - New Armor, Tools & Weapons Stands"
+filename = "Advanced Stands MC 1.20.1 - 2.0.0 Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b1cdbf9a9753bc9d5360edd4eee9075cee1743c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8646734
+project-id = 1585208

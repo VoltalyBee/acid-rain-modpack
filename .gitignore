@@ -1,0 +1,10 @@
+packwiz.exe
+packwiz
+*.log
+.tools/
+distributions/
+.DS_Store
+Thumbs.db
+docs/mods/*.jar
+docs/shaderpacks/*.zip
+docs/resourcepacks/*.zip

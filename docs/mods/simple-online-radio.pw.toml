@@ -1,0 +1,13 @@
+name = "Simple Online Radio"
+filename = "simpleonlineradio-5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "841e429c8b81ca2ebc38a58e86f6c0d39b14e3b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8919004
+project-id = 1474814

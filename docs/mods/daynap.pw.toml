@@ -1,0 +1,13 @@
+name = "DayNap"
+filename = "daynap-forge-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XXZAWr7k/versions/inArQukr/daynap-forge-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "b656d1dc23d5f7a8a0e80c001e37ee46779ae539c3f51af288513a47081075f8d9779489361f2bbb62e3e9639bed27c29010fba31b2123c73862c035ab89c8b5"
+
+[update.modrinth]
+mod-id = "XXZAWr7k"
+version = "inArQukr"

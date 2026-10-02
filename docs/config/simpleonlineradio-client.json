@@ -1,0 +1,19 @@
+{
+  "showHud": false,
+  "showWelcomeMessage": false,
+  "showClientFavorites": false,
+  "clientFavoriteNames": [
+    "Client Favorite 1",
+    "Client Favorite 2",
+    "Client Favorite 3",
+    "Client Favorite 4",
+    "Client Favorite 5"
+  ],
+  "clientFavoriteUrls": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

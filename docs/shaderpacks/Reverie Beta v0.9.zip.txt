@@ -1,0 +1,5 @@
+#Fri Oct 02 02:46:21 CEST 2026
+shadowDistance=256.0
+shadowMapResolution=3072
+SCREENSHOT_MODE=true
+VL_SAMPLES=16

@@ -1,0 +1,2523 @@
+{
+  "pack": "Acid Rain",
+  "minecraft": "1.20.1",
+  "forge": "47.4.23",
+  "date_inventaire": "2026-10-02",
+  "fichiers": [
+    {
+      "path": "mods/Advanced Stands MC 1.20.1 - 2.0.0 Forge.jar",
+      "kind": "mods",
+      "filename": "Advanced Stands MC 1.20.1 - 2.0.0 Forge.jar",
+      "bytes": 137194,
+      "sha1": "8b1cdbf9a9753bc9d5360edd4eee9075cee1743c",
+      "sha256": "eb0e73ddbfad586782cfc15ecc02298d0485e3683bd3c3471183d48d547473bd",
+      "sha512": "98275096c473590bbbe6ed4604b22909a1c62b3450def260103e798ce57564b4d26f9c7ef1c9cfe78910b2c77967a7c38b8f39a40b61292a379662625b6ea61c",
+      "mods": [
+        {
+          "id": "advancedstands",
+          "name": "Advanced Stands",
+          "version": "1.1",
+          "url": ""
+        }
+      ],
+      "license": "Apache 2.0",
+      "name": "Advanced Stands - New Armor, Tools & Weapons Stands",
+      "version": "1.1",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8646734,
+          "project-id": 1585208
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/advanced-stands/files/8646734",
+      "metadata_path": "mods/advanced-stands.pw.toml"
+    },
+    {
+      "path": "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "kind": "mods",
+      "filename": "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "bytes": 53429226,
+      "sha1": "87ea0cd8ec56763185ee0db09eec7c676969e4da",
+      "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
+      "sha512": "150acb106bcb5cb7c74ede40f92cd7f597cc5f735104633b9a068179b05f5488d844af00fde98195a9cb8091f8055011a65126a67d96a8a2af95515a4ae42e55",
+      "mods": [
+        {
+          "id": "ambientsounds",
+          "name": "AmbientSounds",
+          "version": "6.3.8",
+          "url": "https://modrinth.com/mod/ambientsounds"
+        }
+      ],
+      "license": "LGPL-3.0-only",
+      "name": "AmbientSounds",
+      "version": "6.3.8",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/ambientsounds",
+      "download_url": "https://cdn.modrinth.com/data/fM515JnW/versions/AuLdtrBY/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "fM515JnW",
+          "version": "AuLdtrBY"
+        }
+      },
+      "metadata_path": "mods/ambientsounds.pw.toml"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "kind": "mods",
+      "filename": "architectury-9.2.14-forge.jar",
+      "bytes": 580602,
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7",
+      "mods": [
+        {
+          "id": "architectury",
+          "name": "Architectury",
+          "version": "9.2.14",
+          "url": ""
+        }
+      ],
+      "license": "GNU LGPLv3",
+      "name": "Architectury API",
+      "version": "9.2.14+forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/architectury-api",
+      "download_url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "lhGA9TYQ",
+          "version": "1MKTLiiG"
+        }
+      },
+      "metadata_path": "mods/architectury-api.pw.toml"
+    },
+    {
+      "path": "mods/bettercombat-forge-1.9.0+1.20.1.jar",
+      "kind": "mods",
+      "filename": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "bytes": 1054339,
+      "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74",
+      "sha256": "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1",
+      "sha512": "0778902ce693ae56afd9a928e0629470095dff0324c6856fc45ee51a8efcfa622cc22edaa07ed40814d3b13851d62b27d144e9858e5209a6cf70fd3651f081e8",
+      "mods": [
+        {
+          "id": "bettercombat",
+          "name": "Better Combat",
+          "version": "1.9.0+1.20.1",
+          "url": "https://github.com/ZsoltMolnarrr/BetterCombat"
+        }
+      ],
+      "license": "GPL-3.0",
+      "name": "Better Combat",
+      "version": "1.9.0+1.20.1-forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/better-combat",
+      "download_url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/rnhiaw3t/bettercombat-forge-1.9.0%2B1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "5sy6g3kz",
+          "version": "rnhiaw3t"
+        }
+      },
+      "metadata_path": "mods/better-combat.pw.toml"
+    },
+    {
+      "path": "mods/biggerstacks-1.20.1-2026.06.17-all.jar",
+      "kind": "mods",
+      "filename": "biggerstacks-1.20.1-2026.06.17-all.jar",
+      "bytes": 1275777,
+      "sha1": "22b4aa9d792413b2597a9aeb6ec55b21b31534cf",
+      "sha256": "70840af81e6f734a6ea9c5eecf1f540eb470e42ce8339a5f4cb381a3cfc36204",
+      "sha512": "081becd6e467834915a35c6dbf4dc44d89f782fea928ba2d840f3dd1c2bc3c8290aec015db8460da3cbc4e323119ece5f5ed3a8f88d6ea9ebab8143db0bc5877",
+      "mods": [
+        {
+          "id": "biggerstacks",
+          "name": "Bigger Stacks",
+          "version": "1.20.1-2026.06.17",
+          "url": ""
+        }
+      ],
+      "license": "GNU LGPLv3",
+      "name": "Bigger Stacks",
+      "version": "1.20.1-2026.06.17",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/biggerstacks",
+      "download_url": "https://cdn.modrinth.com/data/hcK0pdrI/versions/uUorHnBg/biggerstacks-1.20.1-2026.06.17-all.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "hcK0pdrI",
+          "version": "uUorHnBg"
+        }
+      },
+      "metadata_path": "mods/biggerstacks.pw.toml"
+    },
+    {
+      "path": "mods/blueprint-1.20.1-7.1.5.jar",
+      "kind": "mods",
+      "filename": "blueprint-1.20.1-7.1.5.jar",
+      "bytes": 1160817,
+      "sha1": "78d5ce605ee1c19396fa59c45f541b99e1086768",
+      "sha256": "ab6782901ffb7b08b86325897fb3a2194e0fb1a346af316d74707101c36afb9f",
+      "sha512": "124ec4edbb11f26a49aaa7a60cafeddefef64a0e3641dc6957656f7237ae1f2af848359ffb9c043d20703c35051067cbb285ecf75114ead1688a979b4d302f70",
+      "mods": [
+        {
+          "id": "blueprint",
+          "name": "Blueprint",
+          "version": "7.1.5",
+          "url": "https://www.teamabnormals.com/mods/blueprint"
+        }
+      ],
+      "license": "https://github.com/team-abnormals/blueprint/blob/main/LICENSE.txt",
+      "name": "Blueprint",
+      "version": "7.1.5",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/blueprint",
+      "download_url": "https://cdn.modrinth.com/data/VsM5EDoI/versions/ZQKDh6gd/blueprint-1.20.1-7.1.5.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "VsM5EDoI",
+          "version": "ZQKDh6gd"
+        }
+      },
+      "metadata_path": "mods/blueprint.pw.toml"
+    },
+    {
+      "path": "mods/Camerapture-1.10.12+mc1.20.1-forge.jar",
+      "kind": "mods",
+      "filename": "Camerapture-1.10.12+mc1.20.1-forge.jar",
+      "bytes": 2157918,
+      "sha1": "32be993335016cd0ed02573c580b8f094240b311",
+      "sha256": "d4e35231c00608f75a8155120d7e0457fae7181e2cb796f5844e550e921b04e2",
+      "sha512": "9dfa81b46efe15b2fc78458cc5db74caeacba15902317c390b1b00a4ddadfd717f0cea25dc8d29a11eb1f1c62b30f81fafac37d6758c510597973a1744398992",
+      "mods": [
+        {
+          "id": "camerapture",
+          "name": "Camerapture",
+          "version": "1.10.12",
+          "url": "https://modrinth.com/mod/camerapture"
+        }
+      ],
+      "license": "MIT",
+      "name": "Camerapture",
+      "version": "1.10.12+mc1.20.1-forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/camerapture",
+      "download_url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/VNpCbFx3/Camerapture-1.10.12%2Bmc1.20.1-forge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "9dzLWnmZ",
+          "version": "VNpCbFx3"
+        }
+      },
+      "metadata_path": "mods/camerapture.pw.toml"
+    },
+    {
+      "path": "mods/caverns_and_chasms-1.20.1-2.1.3.jar",
+      "kind": "mods",
+      "filename": "caverns_and_chasms-1.20.1-2.1.3.jar",
+      "bytes": 38734591,
+      "sha1": "b511714b89d257a89358173fb70f776fb76798ca",
+      "sha256": "27c08a8d0b146b8e20c1ff87b26d7264db20531e680bc1395978f267b6e3b69f",
+      "sha512": "c306daca155411e39817bca8d33ff2514ebceeb52e4435c60aa9ed374209406ef10c4e9366626a64f227598459650e6bc2c1abbba1a80dac3e0e28423d7baacb",
+      "mods": [
+        {
+          "id": "caverns_and_chasms",
+          "name": "Caverns & Chasms",
+          "version": "2.1.3",
+          "url": "https://www.teamabnormals.com/mods/caverns-and-chasms"
+        }
+      ],
+      "license": "https://github.com/team-abnormals/caverns_and_chasms/blob/main/LICENSE.txt",
+      "name": "Caverns & Chasms",
+      "version": "2.1.3",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/caverns-and-chasms",
+      "download_url": "https://cdn.modrinth.com/data/tfjmPSbI/versions/TWaOFuHm/caverns_and_chasms-1.20.1-2.1.3.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "tfjmPSbI",
+          "version": "TWaOFuHm"
+        }
+      },
+      "metadata_path": "mods/caverns-and-chasms.pw.toml"
+    },
+    {
+      "path": "mods/Chunky-1.3.146.jar",
+      "kind": "mods",
+      "filename": "Chunky-1.3.146.jar",
+      "bytes": 341451,
+      "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+      "sha256": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
+      "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+      "mods": [
+        {
+          "id": "chunky",
+          "name": "Chunky",
+          "version": "1.3.146",
+          "url": "https://github.com/pop4959/Chunky"
+        }
+      ],
+      "license": "GNU GPLv3",
+      "name": "Chunky",
+      "version": "1.3.146",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/chunky",
+      "download_url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "fALzjamp",
+          "version": "4FTDk9wv"
+        }
+      },
+      "metadata_path": "mods/chunky.pw.toml"
+    },
+    {
+      "path": "mods/citadel-2.6.3-1.20.1.jar",
+      "kind": "mods",
+      "filename": "citadel-2.6.3-1.20.1.jar",
+      "bytes": 3185275,
+      "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+      "sha512": "42e3fa0ddefb1ebdbba4242d81caede834cd0bbd96e4e90b12b2157a5b07c68b625f64046de1f9e1ad4d6056d3536e17207be5f4b24960582052d713b13f22c0",
+      "mods": [
+        {
+          "id": "citadel",
+          "name": "Citadel",
+          "version": "2.6.3",
+          "url": "https://github.com/Alex-the-666/Citadel"
+        }
+      ],
+      "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+      "name": "Citadel",
+      "version": "2.6.3",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/citadel",
+      "download_url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "jJfV67b1",
+          "version": "lTAAe4sZ"
+        }
+      },
+      "metadata_path": "mods/citadel.pw.toml"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "kind": "mods",
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "bytes": 1181413,
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef",
+      "mods": [
+        {
+          "id": "cloth_config",
+          "name": "Cloth Config v10 API",
+          "version": "11.1.136",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/"
+        }
+      ],
+      "license": "GNU LGPLv3",
+      "name": "Cloth Config API",
+      "version": "11.1.136+forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/cloth-config",
+      "download_url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "9s6osm5g",
+          "version": "t8TXrZvZ"
+        }
+      },
+      "metadata_path": "mods/cloth-config.pw.toml"
+    },
+    {
+      "path": "mods/collective-1.20.1-8.40.jar",
+      "kind": "mods",
+      "filename": "collective-1.20.1-8.40.jar",
+      "bytes": 745947,
+      "sha1": "b1ea99ec3dd4ef5f5b688dbe378060e7b97a544a",
+      "sha256": "bb530e601fdd1217cdac24d700ad2888ac3ccc23f255869ab9947e4028267198",
+      "sha512": "b86778d226436c05f49cab9698e179834010891ba8bfd709bd8c6ed9eeeebf950c793b56d6247e121bd080fd50e95c97715bebd06fa93012300b0d52452ceaa9",
+      "mods": [
+        {
+          "id": "collective",
+          "name": "Collective",
+          "version": "8.40",
+          "url": "https://serilum.com/mod/collective"
+        }
+      ],
+      "license": "All rights reserved",
+      "name": "Collective",
+      "version": "1.20.1-8.40-fabric+forge+neo",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/collective",
+      "download_url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/lRfwtGI8/collective-1.20.1-8.40.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "e0M1UDsY",
+          "version": "lRfwtGI8"
+        }
+      },
+      "metadata_path": "mods/collective.pw.toml"
+    },
+    {
+      "path": "mods/coolrain-1.20.1-Forge-1.0.3.jar",
+      "kind": "mods",
+      "filename": "coolrain-1.20.1-Forge-1.0.3.jar",
+      "bytes": 4154428,
+      "sha1": "796410e3954a39a458bc89228a62ae2463a0ba57",
+      "sha256": "a8183b429b7a15b876b83256ab7a5038175936f7074f0ff78535016f49b18a2e",
+      "sha512": "63cd9092cc1bbc57327d2a3b25dd9aa69c66e15fabe03d95b9e79f047bd28f5b59236c61ae22e8a55978d427a10211e127319ab71f4d970241fcadc5f1b69174",
+      "mods": [
+        {
+          "id": "coolrain",
+          "name": "Cool Rain",
+          "version": "1.0.3",
+          "url": ""
+        }
+      ],
+      "license": "MIT",
+      "name": "Cool Rain Reforged",
+      "version": "1.0.3",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/cool-rain-reforged",
+      "download_url": "https://cdn.modrinth.com/data/IgftU6Mn/versions/Z3Yf3JBe/coolrain-1.20.1-Forge-1.0.3.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "IgftU6Mn",
+          "version": "Z3Yf3JBe"
+        }
+      },
+      "metadata_path": "mods/cool-rain-reforged.pw.toml"
+    },
+    {
+      "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
+      "kind": "mods",
+      "filename": "corpse-forge-1.20.1-1.0.23.jar",
+      "bytes": 245644,
+      "sha1": "843b16ca88bc5c390bb22a2a84437e6bffdd43dd",
+      "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c",
+      "sha512": "68d746c6bca9042989109558623df2b51496ab39ce4b80a5da863a9144844e7276ddb22cb75af91d4f6a730fa6c3dc7c8cd549544fb6eb847356ed3a5dbcd524",
+      "mods": [
+        {
+          "id": "corpse",
+          "name": "Corpse",
+          "version": "1.20.1-1.0.23",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/corpse"
+        }
+      ],
+      "license": "All rights reserved",
+      "name": "Corpse",
+      "version": "1.20.1-1.0.23",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 7018272,
+          "project-id": 316582
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/corpse/files/7018272",
+      "metadata_path": "mods/corpse.pw.toml"
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "kind": "mods",
+      "filename": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "bytes": 88752,
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+      "sha512": "85bd5946cbbed8fa4cf2d98b3001ea578a2c312a5844553b01c78365de50f31961cb1f21be187fccec36bdb4947cea3b0b131836df0ee0cbdb0a5ac30d4155f6",
+      "mods": [
+        {
+          "id": "cosmeticarmorreworked",
+          "name": "CosmeticArmorReworked",
+          "version": "1.20.1-v1a",
+          "url": ""
+        }
+      ],
+      "license": "Minecraft Mod Public License 1.0.1",
+      "name": "Cosmetic Armor Reworked",
+      "version": "1.20.1-v1a",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 4600191,
+          "project-id": 237307
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/4600191",
+      "metadata_path": "mods/cosmetic-armor-reworked.pw.toml"
+    },
+    {
+      "path": "mods/CosmeticArmours - 1.5.3.1 - 1.20.1 - Forge.jar",
+      "kind": "mods",
+      "filename": "CosmeticArmours - 1.5.3.1 - 1.20.1 - Forge.jar",
+      "bytes": 17337641,
+      "sha1": "c16d96a914ba5d66d249d3c2209c01706d630cb8",
+      "sha256": "f520bd5b110a0fffee4877a4bbb288888420ef2cb17c6e47b0af46742c3c478d",
+      "sha512": "5242e1887c809d646d7ad9437f10cf43f543d52496bd936e6445a5977792e13926adf98654332850c2133899e4d725cf1f33a0841158f38986abee19163aed80",
+      "mods": [
+        {
+          "id": "cosmeticarmoursmod",
+          "name": "CosmeticArmours",
+          "version": "1.5.3.1",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/cosmeticarmours"
+        }
+      ],
+      "license": "All Rights Reserved",
+      "name": "CosmeticArmours",
+      "version": "1.5.3.1",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/cosmeticarmours",
+      "download_url": "https://cdn.modrinth.com/data/H3JIzTFR/versions/PUNqd88U/CosmeticArmours%20-%201.5.3.1%20-%201.20.1%20-%20Forge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "H3JIzTFR",
+          "version": "PUNqd88U"
+        }
+      },
+      "metadata_path": "mods/cosmeticarmours.pw.toml"
+    },
+    {
+      "path": "mods/cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar",
+      "kind": "mods",
+      "filename": "cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar",
+      "bytes": 8067,
+      "sha1": "138cc2174d5912b2e582cc9485d68f36579a7ca7",
+      "sha256": "73c432e1fe631a274ef8f2770b97d172d837f4ac58dc076e95536a27ad06e186",
+      "sha512": "b2728cdcd1a205346a93641bcf1c0312b2064f10f981cb3408a0839274219a2dae2e5eb345539961537efe14c42020a678ac563d3ff4e579da4c2066a9702480",
+      "mods": [
+        {
+          "id": "cosmeticcorpsecompat",
+          "name": "Cosmetic Armor x Corpse Compat",
+          "version": "4.0.1",
+          "url": ""
+        }
+      ],
+      "license": "MIT",
+      "name": "Corpse x Cosmetic Armor Reworked Compat",
+      "version": "4.0.1",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/corpse-x-cosmetic-armor-reworked-compat",
+      "download_url": "https://cdn.modrinth.com/data/VrbUxhCI/versions/IA3cD1DY/cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "VrbUxhCI",
+          "version": "IA3cD1DY"
+        }
+      },
+      "metadata_path": "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "kind": "mods",
+      "filename": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "bytes": 1144290,
+      "sha1": "f8b65310e0183630dd00c1ade12f9b6ecd243287",
+      "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4",
+      "sha512": "c883749ebe3825694c9d7aad6f406ca6c30de70ca7621cbafb7ebbfaa54766db065b5abd66f42827abca19b25983b2884c425934f6d04d629dc9fa731fe9aa0c",
+      "mods": [
+        {
+          "id": "creativecore",
+          "name": "CreativeCore",
+          "version": "2.12.40",
+          "url": "https://modrinth.com/mod/creativecore"
+        }
+      ],
+      "license": "LGPL-3.0-only",
+      "name": "CreativeCore",
+      "version": "2.12.40",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/creativecore",
+      "download_url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ChKayKur/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "OsZiaDHq",
+          "version": "ChKayKur"
+        }
+      },
+      "metadata_path": "mods/creativecore.pw.toml"
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "kind": "mods",
+      "filename": "curios-forge-5.14.1+1.20.1.jar",
+      "bytes": 398066,
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "sha512": "1373f95fd111c977db2f6adcef8e4eb486a2d926a3e17374692dee4ac3d65857de6446c16922b531aa5ace2c23c666a7fcc28c720b2917c1e04808d15648ba87",
+      "mods": [
+        {
+          "id": "curios",
+          "name": "Curios API",
+          "version": "5.14.1+1.20.1",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/curios"
+        }
+      ],
+      "license": "LGPL-3.0-or-later",
+      "name": "Curios API",
+      "version": "5.14.1+1.20.1",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/curios",
+      "download_url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "vvuO3ImH",
+          "version": "IPQlZkz1"
+        }
+      },
+      "metadata_path": "mods/curios.pw.toml"
+    },
+    {
+      "path": "mods/daynap-forge-1.0.0-1.20.1.jar",
+      "kind": "mods",
+      "filename": "daynap-forge-1.0.0-1.20.1.jar",
+      "bytes": 17313,
+      "sha1": "ea58828f31010c2bcb7d5272ecb44b5c31a348d3",
+      "sha256": "520b63fce67bd91069fb047de529cffbd178b725dc7cab6e4c7369aa7ff5e755",
+      "sha512": "b656d1dc23d5f7a8a0e80c001e37ee46779ae539c3f51af288513a47081075f8d9779489361f2bbb62e3e9639bed27c29010fba31b2123c73862c035ab89c8b5",
+      "mods": [
+        {
+          "id": "daynap",
+          "name": "DayNap",
+          "version": "1.0.0",
+          "url": ""
+        }
+      ],
+      "license": "MIT",
+      "name": "DayNap",
+      "version": "1.0.0",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/daynap",
+      "download_url": "https://cdn.modrinth.com/data/XXZAWr7k/versions/inArQukr/daynap-forge-1.0.0-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "XXZAWr7k",
+          "version": "inArQukr"
+        }
+      },
+      "metadata_path": "mods/daynap.pw.toml"
+    },
+    {
+      "path": "mods/DeeperCaves-1.20.1-1.2.7.jar",
+      "kind": "mods",
+      "filename": "DeeperCaves-1.20.1-1.2.7.jar",
+      "bytes": 2006489,
+      "sha1": "6b6e107df6b1cf6ef6d14c8086eecdf8a936e7db",
+      "sha256": "16d615ed9542962bb89e038a599c8c15e5172aaa6707f7694f9df216bf1bc191",
+      "sha512": "2bba905ae1760c92b76e3d214af437da15598a5a13ea1ce5034df0398076d0e6af1c7400cb67338f5a10e4c0bb4fa4443a160a20aa5496f9faffe45f8d8e5ee4",
+      "mods": [
+        {
+          "id": "cavesanddepths",
+          "name": "Deeper Caves",
+          "version": "1.2.7",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/deeper-caves"
+        }
+      ],
+      "license": "Academic Free License v3.0",
+      "name": "Deeper Caves",
+      "version": "1.2.7",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/deeper_caves",
+      "download_url": "https://cdn.modrinth.com/data/tAzghcaA/versions/Vg7VLTDX/DeeperCaves-1.20.1-1.2.7.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "tAzghcaA",
+          "version": "Vg7VLTDX"
+        }
+      },
+      "metadata_path": "mods/deeper_caves.pw.toml"
+    },
+    {
+      "path": "mods/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "kind": "mods",
+      "filename": "deeperdarker-forge-1.20.1-1.3.3.jar",
+      "bytes": 17844266,
+      "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5",
+      "sha256": "d07dc6155e0b751c7d1ec26dabb7284a41798c85e48b0d809fd1254e489ed455",
+      "sha512": "fcf08e2d1bfb0bf40120f426826b25e6d483a83cf7f04d221798bcc8cb46cedb9065dc5c0d33213f5c708cebd0081aba4ca7265fcd96c76b16d2f99bd4297aae",
+      "mods": [
+        {
+          "id": "deeperdarker",
+          "name": "Deeper and Darker",
+          "version": "1.3.3",
+          "url": ""
+        }
+      ],
+      "license": "AGPL-3.0",
+      "name": "Deeper and Darker",
+      "version": "1.3.3-forge+1.20.1",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/deeperdarker",
+      "download_url": "https://cdn.modrinth.com/data/fnAffV0n/versions/e2oirgc2/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "fnAffV0n",
+          "version": "e2oirgc2"
+        }
+      },
+      "metadata_path": "mods/deeperdarker.pw.toml"
+    },
+    {
+      "path": "mods/doubledoors-1.20.1-7.2.jar",
+      "kind": "mods",
+      "filename": "doubledoors-1.20.1-7.2.jar",
+      "bytes": 54300,
+      "sha1": "e97abe73c78be318584623a5e5b6e311e545da31",
+      "sha256": "1847baf0f97a3ebc07735743b0e226c45dd7c289cd03214bcfc7f49ed44ccb1e",
+      "sha512": "335774b5052d6b557c1e6b93197e1f4c19b9f1edeca7482d1e87d03a95a6e34588554481b299238938dbdaf6159594da544874e51dc96f27ca7d4cef62d76897",
+      "mods": [
+        {
+          "id": "doubledoors",
+          "name": "Double Doors",
+          "version": "7.2",
+          "url": "https://serilum.com/mod/double-doors"
+        }
+      ],
+      "license": "All rights reserved",
+      "name": "Double Doors",
+      "version": "1.20.1-7.2-fabric+forge+neo",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/double-doors",
+      "download_url": "https://cdn.modrinth.com/data/JrvR9OHr/versions/JxWWE54a/doubledoors-1.20.1-7.2.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "JrvR9OHr",
+          "version": "JxWWE54a"
+        }
+      },
+      "metadata_path": "mods/double-doors.pw.toml"
+    },
+    {
+      "path": "mods/easy_npc-forge-1.20.1-7.12.1.jar",
+      "kind": "mods",
+      "filename": "easy_npc-forge-1.20.1-7.12.1.jar",
+      "bytes": 2962180,
+      "sha1": "39d2f57946e311920453219e768977afc83f73fb",
+      "sha256": "358a0a7783dff8567e354ac64086b1bd9f87546e78f5f1436435dd175d933f1e",
+      "sha512": "7642b358b15f2bd15f1f4a5f5938cb6ec52cab1b82502ffa5f5373de8d14f1e332983afd39ced8652717f94f53aa4591cacdd85e8a8362ad757485574e503a9b",
+      "mods": [
+        {
+          "id": "easy_npc",
+          "name": "Easy NPC",
+          "version": "7.12.1",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/easy-npc"
+        }
+      ],
+      "license": "MIT",
+      "name": "Easy NPC: Core",
+      "version": "7.12.1",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8840901,
+          "project-id": 1308987
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/easy-npc-core/files/8840901",
+      "metadata_path": "mods/easy-npc-core.pw.toml"
+    },
+    {
+      "path": "mods/easy_npc_bundle-forge-1.20.1-7.12.1.jar",
+      "kind": "mods",
+      "filename": "easy_npc_bundle-forge-1.20.1-7.12.1.jar",
+      "bytes": 25441,
+      "sha1": "2286c9b08342f3ec1ceae8304425b39e5301b028",
+      "sha256": "f930c1bb8bbb320963ce8c2425eed75ae6363cc1706d627c8989a127aecec15e",
+      "sha512": "77dd04458f64c8c311b7066c840b166b2f07c178134ebf208d8cad78625d938a74053c94fce6bca7955c3aa5f35f464285edfd589e26ee40ff8c3087c5104e3b",
+      "mods": [
+        {
+          "id": "easy_npc_bundle",
+          "name": "Easy NPC: Bundle",
+          "version": "7.12.1",
+          "url": "https://github.com/MarkusBordihn/BOs-Easy-NPC"
+        }
+      ],
+      "license": "MIT",
+      "name": "Easy NPC",
+      "version": "7.12.1",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8840908,
+          "project-id": 559312
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/easy-npc/files/8840908",
+      "metadata_path": "mods/easy-npc.pw.toml"
+    },
+    {
+      "path": "mods/easy_npc_config_ui-forge-1.20.1-7.12.1.jar",
+      "kind": "mods",
+      "filename": "easy_npc_config_ui-forge-1.20.1-7.12.1.jar",
+      "bytes": 1092567,
+      "sha1": "5b1a31235d6eafbd714f36b9c6e7ede2cdd182ee",
+      "sha256": "da58bfce2a5902d4037d14ace9e96c294692790835ff0d608aafa818c80964cd",
+      "sha512": "37645ede41cebb3dc67322a28bd43f008b28db5ea680bb25a9e7d4b1f39934b8e4b03662c56c48d0de7f6e066a358ff6e4c254057406d9b4b8e33dc8768fa9ba",
+      "mods": [
+        {
+          "id": "easy_npc_config_ui",
+          "name": "Easy NPC: Config UI",
+          "version": "7.12.1",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/easy-npc"
+        }
+      ],
+      "license": "MIT",
+      "name": "Easy NPC: Config UI",
+      "version": "7.12.1",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8840904,
+          "project-id": 1214728
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/easy-npc-config-ui/files/8840904",
+      "metadata_path": "mods/easy-npc-config-ui.pw.toml"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "kind": "mods",
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "bytes": 1320675,
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+      "mods": [
+        {
+          "id": "embeddium",
+          "name": "Embeddium",
+          "version": "0.3.31+mc1.20.1",
+          "url": ""
+        },
+        {
+          "id": "rubidium",
+          "name": "Rubidium (Embeddium)",
+          "version": "0.7.1",
+          "url": ""
+        }
+      ],
+      "license": "LGPL-3.0-only",
+      "name": "Embeddium",
+      "version": "0.3.31+mc1.20.1",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/embeddium",
+      "download_url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "sk9rgfiA",
+          "version": "UTbfe5d1"
+        }
+      },
+      "metadata_path": "mods/embeddium.pw.toml"
+    },
+    {
+      "path": "mods/FastLeafDecay-32.jar",
+      "kind": "mods",
+      "filename": "FastLeafDecay-32.jar",
+      "bytes": 9835,
+      "sha1": "4a76af4ca71dd9939d3c21206792c0d5f75b93a7",
+      "sha256": "ce48db06bfb5830c147969793771a8f8b5a5774b182543b906bc439efd4e9469",
+      "sha512": "77d0702385672b6e26e0c605555e096973f712584e10a80271e76efffd4660d4a5eb766e8f64a3ee9a46a8fc87585e0ad8b9a7be42282c493370f1ad9e9b64a1",
+      "mods": [
+        {
+          "id": "fastleafdecay",
+          "name": "Fast Leaf Decay",
+          "version": "32",
+          "url": ""
+        }
+      ],
+      "license": "All Rights Reserved",
+      "name": "Fast Leaf Decay",
+      "version": "32",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 5375681,
+          "project-id": 230976
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/5375681",
+      "metadata_path": "mods/fast-leaf-decay.pw.toml"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.7+1.20.1+forge.jar",
+      "kind": "mods",
+      "filename": "fzzy_config-0.7.7+1.20.1+forge.jar",
+      "bytes": 2397175,
+      "sha1": "1a4f550dea4fb6316a96591dc46a463ee1f6602b",
+      "sha256": "c4acf6fd3ce66ff28050dd9fdbff25c407f98a4911311ff3f59d651acccc9575",
+      "sha512": "d082b2fcdd2411312f0ce096c35e6167c453f85c979c4273cc92cf246cd0855d825865d79d47933a1bf3f1caaaf17b5a9415d4cb58ace26582434843380e3c1d",
+      "mods": [
+        {
+          "id": "fzzy_config",
+          "name": "Fzzy Config",
+          "version": "0.7.7+1.20.1+forge",
+          "url": ""
+        }
+      ],
+      "license": "TDL-M (https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified)",
+      "name": "Fzzy Config",
+      "version": "0.7.7+1.20.1+forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/fzzy-config",
+      "download_url": "https://cdn.modrinth.com/data/hYykXjDp/versions/53kg5uoF/fzzy_config-0.7.7%2B1.20.1%2Bforge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "hYykXjDp",
+          "version": "53kg5uoF"
+        }
+      },
+      "metadata_path": "mods/fzzy-config.pw.toml"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "kind": "mods",
+      "filename": "geckolib-forge-1.20.1-4.8.4.jar",
+      "bytes": 1038209,
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
+      "sha512": "e3ddb9b3688c5dc7e32befe5b7849447acf08e7f839c453e2e7034dd01e194118a6a496205aa89dba797709fec0c06b8ea4680536ef6b33fb0c29a976c09d576",
+      "mods": [
+        {
+          "id": "geckolib",
+          "name": "GeckoLib 4",
+          "version": "4.8.4",
+          "url": "http://geckolib.com/"
+        }
+      ],
+      "license": "MIT",
+      "name": "GeckoLib",
+      "version": "4.8.4",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8285794,
+          "project-id": 388172
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib/files/8285794",
+      "metadata_path": "mods/geckolib.pw.toml"
+    },
+    {
+      "path": "mods/guiclock-1.20.1-4.7.jar",
+      "kind": "mods",
+      "filename": "guiclock-1.20.1-4.7.jar",
+      "bytes": 40270,
+      "sha1": "717e97bd87058290f9b27b55946f2ba1da51cf8d",
+      "sha256": "59d2bc97c917a0e8b5686e75a1808cabb4fc1098b63a0babeade95439288e9cb",
+      "sha512": "e502fc0af40096343369d3033b11046946f4705ec5e236ad0137a6750c26c3d35914202e11d47ab946097fc6f371067c6d151a75965a59d04417be00019f4aeb",
+      "mods": [
+        {
+          "id": "guiclock",
+          "name": "GUI Clock",
+          "version": "4.7",
+          "url": "https://serilum.com/mod/gui-clock"
+        }
+      ],
+      "license": "All rights reserved",
+      "name": "GUI Clock",
+      "version": "1.20.1-4.7-fabric+forge+neo",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/gui-clock",
+      "download_url": "https://cdn.modrinth.com/data/g1yXisD2/versions/2bQaZYoX/guiclock-1.20.1-4.7.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "g1yXisD2",
+          "version": "2bQaZYoX"
+        }
+      },
+      "metadata_path": "mods/gui-clock.pw.toml"
+    },
+    {
+      "path": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "kind": "mods",
+      "filename": "handcrafted-forge-1.20.1-3.0.6.jar",
+      "bytes": 7111059,
+      "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f",
+      "sha256": "1da3c7c524bfb656bb370757af55f08f1678e8e1cb934e1c4c04aa773ed64a79",
+      "sha512": "d3c2eb6fad0c274d4ce9e121749252bcbc19a1b0ff5b619255a08f22e3aade51d3f3fd454712de5b1cb8242e78c2f320ab99d2c94f96f372b4089dbc66a8d78e",
+      "mods": [
+        {
+          "id": "handcrafted",
+          "name": "Handcrafted",
+          "version": "3.0.6",
+          "url": "https://modrinth.com/mod/handcrafted"
+        }
+      ],
+      "license": "Terrarium Licence",
+      "name": "Handcrafted",
+      "version": "3.0.6",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/handcrafted",
+      "download_url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/N7wZwOFy/handcrafted-forge-1.20.1-3.0.6.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "pJmCFF0p",
+          "version": "N7wZwOFy"
+        }
+      },
+      "metadata_path": "mods/handcrafted.pw.toml"
+    },
+    {
+      "path": "mods/immersivelanterns-forge-1.0.6-1.20.1.jar",
+      "kind": "mods",
+      "filename": "immersivelanterns-forge-1.0.6-1.20.1.jar",
+      "bytes": 367298,
+      "sha1": "9d24f9e23742f962864aefc96d817f12b6382a5e",
+      "sha256": "a05339dde22dbb188ee79f634c4737667a983474580208010cf14ea9a74a414d",
+      "sha512": "b6828aadd8570cdef43275fd527731c365110dabc6a6b797d2165f8db9c0173b1bad188b824b87aeb35ad7fe763ffb07eef4f60cbc434308b183430039546133",
+      "mods": [
+        {
+          "id": "immersivelanterns",
+          "name": "Immersive Lanterns",
+          "version": "1.0.6",
+          "url": "https://github.com/txnimc/ImmersiveLanterns/"
+        }
+      ],
+      "license": "Toni's MMC License",
+      "name": "Toni's Immersive Lanterns",
+      "version": "1.0.6",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/immersive-lanterns",
+      "download_url": "https://cdn.modrinth.com/data/vskzdsyT/versions/bKAfmaXM/immersivelanterns-forge-1.0.6-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "vskzdsyT",
+          "version": "bKAfmaXM"
+        }
+      },
+      "metadata_path": "mods/immersive-lanterns.pw.toml"
+    },
+    {
+      "path": "mods/inventorymanagement-1.20.1-Forge-1.0.7.jar",
+      "kind": "mods",
+      "filename": "inventorymanagement-1.20.1-Forge-1.0.7.jar",
+      "bytes": 195716,
+      "sha1": "65ce8f758f7f9a7407e4d7a4ec647d83adce3ad0",
+      "sha256": "fd5533e547ef8070d007ba351af5a6b0257e07669d59ddc1aa79882b00ad6d54",
+      "sha512": "64cfada2a8629f664ac920bc9210292768d228c035a63d932e3d62bd346e8eec73f96e96c135f3750945e017e8901bfe557f0a7255178275f398b3cafb2c8be4",
+      "mods": [
+        {
+          "id": "inventorymanagement",
+          "name": "Inventory Management Deluxe",
+          "version": "1.0.7",
+          "url": ""
+        }
+      ],
+      "license": "MIT",
+      "name": "Inventory Management Deluxe",
+      "version": "1.0.7",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8083721,
+          "project-id": 1293085
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/inventory-management-deluxe/files/8083721",
+      "metadata_path": "mods/inventory-management-deluxe.pw.toml"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.62.0.216.jar",
+      "kind": "mods",
+      "filename": "jei-1.20.1-forge-15.62.0.216.jar",
+      "bytes": 2231809,
+      "sha1": "bb0cb397083a0be2601bd4c6f7060326a1c8505f",
+      "sha256": "80ece8bd42497c94cbcab5d9b82594a53831b249bb33e1ff6dcf568a4b7a637b",
+      "sha512": "3828cd57e283d2b77db749f18d776442c8e9c7efd43638f908161bdec4c92df9b1bf9f6ff9120adb2901a796d382f3b8ebbc687834f32d367deec3bde32c7aa9",
+      "mods": [
+        {
+          "id": "jei",
+          "name": "Just Enough Items",
+          "version": "15.62.0.216",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/jei"
+        }
+      ],
+      "license": "The MIT License (MIT)",
+      "name": "Just Enough Items (JEI)",
+      "version": "15.62.0.216",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/jei",
+      "download_url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/p5jzDqhi/jei-1.20.1-forge-15.62.0.216.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "u6dRKJwZ",
+          "version": "p5jzDqhi"
+        }
+      },
+      "metadata_path": "mods/jei.pw.toml"
+    },
+    {
+      "path": "mods/KeepRaining.jar",
+      "kind": "mods",
+      "filename": "KeepRaining.jar",
+      "bytes": 12480,
+      "sha1": "6b50eee1a0a59e426ca4e81b08bb6ded92294444",
+      "sha256": "f1cea767b8be1eeeeab65d3773e7164fc5920e904e929704a337c8a1fd6d76f4",
+      "sha512": "87e7355c22e3d2b541dbbe0d85558c5c36e42ee73688c3ad3f881a2a6ffb61c469c38b0ed29c076359cf30673bad2060b68ceaf8972a0ee095d26b5b983fc636",
+      "mods": [
+        {
+          "id": "keep_raining",
+          "name": "KeepRaining",
+          "version": "1.0.0",
+          "url": "https://mcreator.net"
+        }
+      ],
+      "license": "Academic Free License v3.0",
+      "name": "Keep Raining!",
+      "version": "1.0.0",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 5012965,
+          "project-id": 958955
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/keep-raining/files/5012965",
+      "metadata_path": "mods/keep-raining.pw.toml"
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "kind": "mods",
+      "filename": "kotlinforforge-4.12.0-all.jar",
+      "bytes": 7442998,
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+      "sha512": "767f40030ed4b370a3838fa65ae1b79974f31979342fff7cc834a0d5f39eb28612642519352ff2a1dd5226ce1f745f8b3156ee3625ffde01219137d064c1ee40",
+      "mods": [],
+      "license": "",
+      "name": "Kotlin for Forge",
+      "version": "4.12.0",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/kotlin-for-forge",
+      "download_url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "ordsPcFz",
+          "version": "Zsh14XeQ"
+        }
+      },
+      "metadata_path": "mods/kotlin-for-forge.pw.toml"
+    },
+    {
+      "path": "mods/ldlib-forge-1.20.1-1.0.52.a.jar",
+      "kind": "mods",
+      "filename": "ldlib-forge-1.20.1-1.0.52.a.jar",
+      "bytes": 3125867,
+      "sha1": "b341bc49b53a1e1e2566e369339ab66bb53167c6",
+      "sha256": "a9b0827d264e0d15f90482de0d4783a28fc2dad9dfb477f344dc5e959168838d",
+      "sha512": "9aebc17d4406aeccc37b93b22affc7baa67ab695a3e58874860aba12db039b79f399b589ece07ad99b250a814f6a078f482e5c3b1045219c347c73e5bd7eba47",
+      "mods": [
+        {
+          "id": "ldlib",
+          "name": "LowDragLib",
+          "version": "1.0.52.a",
+          "url": "https://github.com/Low-Drag-MC/"
+        }
+      ],
+      "license": "GPL-3.0 license",
+      "name": "LDLib",
+      "version": "mc1.20.1-1.0.52.a-forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/ldlib",
+      "download_url": "https://cdn.modrinth.com/data/B1CBVXHX/versions/YSOP0G6O/ldlib-forge-1.20.1-1.0.52.a.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "B1CBVXHX",
+          "version": "YSOP0G6O"
+        }
+      },
+      "metadata_path": "mods/ldlib.pw.toml"
+    },
+    {
+      "path": "mods/lexiconfig-forge-1.4.21-epic.jar",
+      "kind": "mods",
+      "filename": "lexiconfig-forge-1.4.21-epic.jar",
+      "bytes": 67140,
+      "sha1": "824b05b4977fe31092ed66fb9f0f4b5415c1a8ec",
+      "sha256": "df5775bc100a7a01533528736b1900c710def97397bfc80c51e5158ced695540",
+      "sha512": "48b708d692c6a7c143d14a3e32d8ea016336fc5fd5ac59f65fc2913bc302e3d5ae9ddea4c09e7f886e5bbf277bb9e935c1fc3fa425f15773e233e84bd448356b",
+      "mods": [
+        {
+          "id": "lexiconfig",
+          "name": "Lexiconfig",
+          "version": "1.4.21-epic",
+          "url": ""
+        }
+      ],
+      "license": "GNU GPLv3",
+      "name": "Lexiconfig",
+      "version": "1.4.21-epic",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/lexiconfig",
+      "download_url": "https://cdn.modrinth.com/data/D157Rgyf/versions/ETnNoR2R/lexiconfig-forge-1.4.21-epic.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "D157Rgyf",
+          "version": "ETnNoR2R"
+        }
+      },
+      "metadata_path": "mods/lexiconfig.pw.toml"
+    },
+    {
+      "path": "mods/mezz_config-1.20.1-forge-0.6.5.jar",
+      "kind": "mods",
+      "filename": "mezz_config-1.20.1-forge-0.6.5.jar",
+      "bytes": 348337,
+      "sha1": "2618da62d653b3ebdb8130a889f6916658976587",
+      "sha256": "d06335f4a015b41bc35944460260854b48da651cb496b71b0a89a18c75c1984e",
+      "sha512": "2806e44b7d500d4a079c1cb2b251907aefcfdf1c6991c4c34eeb1ab9c4ec049bbb2801b03f3a0b5eee7f48953e973c29a64868bd3d5b5eb251897c111b058a73",
+      "mods": [
+        {
+          "id": "mezz_config",
+          "name": "MezzConfig",
+          "version": "0.6.5",
+          "url": "https://github.com/mezz/MezzConfig"
+        }
+      ],
+      "license": "The MIT License (MIT)",
+      "name": "MezzConfig",
+      "version": "0.6.5",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/mezzconfig",
+      "download_url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/SHm8O27V/mezz_config-1.20.1-forge-0.6.5.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "7tEfOcA7",
+          "version": "SHm8O27V"
+        }
+      },
+      "metadata_path": "mods/mezzconfig.pw.toml"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "kind": "mods",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "bytes": 2851119,
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "sha512": "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5",
+      "mods": [
+        {
+          "id": "oculus",
+          "name": "Oculus",
+          "version": "1.8.0",
+          "url": "https://curseforge.com/minecraft/mc-mods/oculus"
+        }
+      ],
+      "license": "LGPL-3.0-only",
+      "name": "Oculus",
+      "version": "1.20.1-1.8.0",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/oculus",
+      "download_url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "GchcoXML",
+          "version": "iQ1SwGc3"
+        }
+      },
+      "metadata_path": "mods/oculus.pw.toml"
+    },
+    {
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.31.6.jar",
+      "kind": "mods",
+      "filename": "open-parties-and-claims-forge-1.20.1-0.31.6.jar",
+      "bytes": 1830866,
+      "sha1": "cb5a9d300cdc49b9a7c61d27fbc17d8a7b5c3810",
+      "sha256": "09a45f78abf67dbea00df6c128f1860e51c5425b5f401d8d3408b5088de99612",
+      "sha512": "a8c61a6ed755336bded44dd0f8c67225c4877c1caa71d922930ffd800bea68f68b4586555ff289bf5fd3700244f0075cf5d434cb2d234da19bb2bb113b3ad2f9",
+      "mods": [
+        {
+          "id": "openpartiesandclaims",
+          "name": "Open Parties and Claims",
+          "version": "0.31.6",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims"
+        }
+      ],
+      "license": "GNU Lesser General Public License v3.0 (LGPL-3.0-only)",
+      "name": "Open Parties and Claims",
+      "version": "forge-1.20.1-0.31.6",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/open-parties-and-claims",
+      "download_url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/3aml2k9o/open-parties-and-claims-forge-1.20.1-0.31.6.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "gF3BGWvG",
+          "version": "3aml2k9o"
+        }
+      },
+      "metadata_path": "mods/open-parties-and-claims.pw.toml"
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+      "kind": "mods",
+      "filename": "Patchouli-1.20.1-85-FORGE.jar",
+      "bytes": 642732,
+      "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+      "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
+      "sha512": "15aedda4efcc553d5e3c83aa867b62554bc2fab298b43f55ed324e10507a3605f0ec2c59c01476e6d80b2a49275ef080142e43a6e663f9463b62f520960fc203",
+      "mods": [
+        {
+          "id": "patchouli",
+          "name": "Patchouli",
+          "version": "1.20.1-85-FORGE",
+          "url": ""
+        }
+      ],
+      "license": "CC BY-NC-SA 3.0",
+      "name": "Patchouli",
+      "version": "1.20.1-85-forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/patchouli",
+      "download_url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "nU0bVIaL",
+          "version": "94dtOLgZ"
+        }
+      },
+      "metadata_path": "mods/patchouli.pw.toml"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "kind": "mods",
+      "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "bytes": 181437,
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "sha512": "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729",
+      "mods": [
+        {
+          "id": "playeranimator",
+          "name": "Player Animator",
+          "version": "1.0.2-rc1+1.20",
+          "url": ""
+        }
+      ],
+      "license": "MIT",
+      "name": "playerAnimator",
+      "version": "1.0.2-rc1+1.20-forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/playeranimator",
+      "download_url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "gedNE4y2",
+          "version": "xe2EVE6q"
+        }
+      },
+      "metadata_path": "mods/playeranimator.pw.toml"
+    },
+    {
+      "path": "mods/pointblank-forge-1.20.1-2.2.0.jar",
+      "kind": "mods",
+      "filename": "pointblank-forge-1.20.1-2.2.0.jar",
+      "bytes": 21427894,
+      "sha1": "c1fc31e09fff2f3dcce969ac670556a5a2737e98",
+      "sha256": "1ccb60a61e904ac9dd4ea35b0fed087aa6b9d915dc7722b1acc3a48cba48639f",
+      "sha512": "d66dd775d1303ce694dc8a561bd641d5a32b59b92867cbf755e46ea7e0ce908531f3ccbc0896c34421d0eac3507e86380fe09624dab063915c48e6eb5530131f",
+      "mods": [
+        {
+          "id": "pointblank",
+          "name": "Point Blank",
+          "version": "2.2.0",
+          "url": ""
+        }
+      ],
+      "license": "All Rights Reserved",
+      "name": "Vic's Point Blank",
+      "version": "2.2.0",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/vics-point-blank",
+      "download_url": "https://cdn.modrinth.com/data/og4KPYmA/versions/d1YyBgcz/pointblank-forge-1.20.1-2.2.0.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "og4KPYmA",
+          "version": "d1YyBgcz"
+        }
+      },
+      "metadata_path": "mods/vics-point-blank.pw.toml"
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+      "kind": "mods",
+      "filename": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+      "bytes": 7080698,
+      "sha1": "6ccb76043763f929a11f1857a57b41bb70ab7512",
+      "sha256": "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98",
+      "sha512": "1aa952c8a3545ac2dcdc9802018cfcf9a20fd76cedcc62f82529051e0873537f8cd401f91c95c5a910e6f2a3083a8a260ee6b2b758710740fe9e74d1cee98200",
+      "mods": [
+        {
+          "id": "presencefootsteps",
+          "name": "Presence Footsteps (Forge)",
+          "version": "1.20.1-1.9.1-beta.1",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge"
+        }
+      ],
+      "license": "MIT",
+      "name": "Presence Footsteps (Forge)",
+      "version": "1.20.1-1.9.1-beta.1",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 5015286,
+          "project-id": 433068
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge/files/5015286",
+      "metadata_path": "mods/presence-footsteps-forge.pw.toml"
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.1.jar",
+      "kind": "mods",
+      "filename": "resourcefullib-forge-1.20.1-2.1.1.jar",
+      "bytes": 287413,
+      "sha1": "b767f2ef41a2100c59be9dbc9493f20f42b89368",
+      "sha256": "fa4b83b6c53ae97fdc0cb8b9d2510118ad618c4791b0aff6eff1b46ad7cd1d1b",
+      "sha512": "36b652d8ccf848b61a211be8c3d94a4aafdde56e4532f06271e4b43453d9eb71e6e933fa1a7a105cabc3d7e200ac2b415bf69bd2389d5cbf5e5705e6908de29c",
+      "mods": [
+        {
+          "id": "resourcefullib",
+          "name": "Resourceful Lib",
+          "version": "2.1.1",
+          "url": ""
+        }
+      ],
+      "license": "MIT",
+      "name": "Resourceful Lib",
+      "version": "2.1.1",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/resourceful-lib",
+      "download_url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/tIBkUaKa/resourcefullib-forge-1.20.1-2.1.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "G1hIVOrD",
+          "version": "tIBkUaKa"
+        }
+      },
+      "metadata_path": "mods/resourceful-lib.pw.toml"
+    },
+    {
+      "path": "mods/roomfortwo-forge-1.20.1-0.3.0.jar",
+      "kind": "mods",
+      "filename": "roomfortwo-forge-1.20.1-0.3.0.jar",
+      "bytes": 49918,
+      "sha1": "1c8d9967b5371c8c0ad407daf89615301377d19c",
+      "sha256": "41ba80f78156293bcd548c88268f13ebc142ff46e71367a28de6043b0ffcbe7d",
+      "sha512": "9d79f0501acd4ed8b50364ca405fecc5683258b0ac956d0aed0c0eb22d02a2584897fcecf63c65f9092a1b6f12a414f67e2a9ba4162950555b4fbff06e25dab9",
+      "mods": [
+        {
+          "id": "roomfortwo",
+          "name": "Room For Two",
+          "version": "0.3.0",
+          "url": "https://github.com/Sir-Cow/room-for-two"
+        }
+      ],
+      "license": "Sir_Cow Protective License",
+      "name": "Room For Two",
+      "version": "0.3.0",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/room-for-two",
+      "download_url": "https://cdn.modrinth.com/data/YZlvzIFq/versions/nIz5sJ3j/roomfortwo-forge-1.20.1-0.3.0.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "YZlvzIFq",
+          "version": "nIz5sJ3j"
+        }
+      },
+      "metadata_path": "mods/room-for-two.pw.toml"
+    },
+    {
+      "path": "mods/setworldspawnpoint-1.20.1-3.5.jar",
+      "kind": "mods",
+      "filename": "setworldspawnpoint-1.20.1-3.5.jar",
+      "bytes": 28040,
+      "sha1": "218e27e08f10996360c60ff5c7cb267b512da58c",
+      "sha256": "a5b9c2af94a90e93fc144d156b26268610e5814e6671e3f7bccfc2000add5db2",
+      "sha512": "b2bf6f999c2acee31c4fed53db5919c6379c0e6dda5914ffcf3c36ca3fda79f4a1f07e90c8f390ee196b2ccaa6e5ca2c67dc0dfc5369413069880d397dc07a3a",
+      "mods": [
+        {
+          "id": "setworldspawnpoint",
+          "name": "Set World Spawn Point",
+          "version": "3.5",
+          "url": "https://serilum.com/mod/set-world-spawn-point"
+        }
+      ],
+      "license": "All rights reserved",
+      "name": "Set World Spawn Point",
+      "version": "1.20.1-3.5-fabric+forge+neo",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/set-world-spawn-point",
+      "download_url": "https://cdn.modrinth.com/data/EL8fq1gi/versions/W33wMExg/setworldspawnpoint-1.20.1-3.5.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "EL8fq1gi",
+          "version": "W33wMExg"
+        }
+      },
+      "metadata_path": "mods/set-world-spawn-point.pw.toml"
+    },
+    {
+      "path": "mods/simpleonlineradio-5.2.jar",
+      "kind": "mods",
+      "filename": "simpleonlineradio-5.2.jar",
+      "bytes": 285648,
+      "sha1": "841e429c8b81ca2ebc38a58e86f6c0d39b14e3b1",
+      "sha256": "c65a10e998d7ca36f3af00dc27e9b4b3c46d12da714546bf03b68883318b7dc6",
+      "sha512": "07716e92fcb9914faa9bd74267435e7fc70f67215aa5e6b63a8edafb9d4fad3ffe28d6316d11266a9519212f9451f3263294d82036bb230fd4b5daa377e280d5",
+      "mods": [
+        {
+          "id": "simpleonlineradio",
+          "name": "Simple Online Radio",
+          "version": "5.2",
+          "url": ""
+        }
+      ],
+      "license": "All Rights Reserved",
+      "name": "Simple Online Radio",
+      "version": "5.2",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8919004,
+          "project-id": 1474814
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/simple-online-radio/files/8919004",
+      "metadata_path": "mods/simple-online-radio.pw.toml"
+    },
+    {
+      "path": "mods/simpleradio-forge-1.20.1-4.5.7.9.jar",
+      "kind": "mods",
+      "filename": "simpleradio-forge-1.20.1-4.5.7.9.jar",
+      "bytes": 1206013,
+      "sha1": "af09cad4e10f41b727be0da5e47f09cd603a4a58",
+      "sha256": "fccccdfa239240de4ed4dfe4ba6535c4791a0f99bc86dee4e7e26e4aa6679391",
+      "sha512": "9b940161c02995c9c6827f78d3a7ac21d4b6d0084d72dbcb7318b16fc7db4e73c3a765f0267e41c728e08a67a6b9d53053c225d9b56fc375b44e69a602db0b99",
+      "mods": [
+        {
+          "id": "simpleradio",
+          "name": "Simple Radio",
+          "version": "1.20.1-4.5.7.9",
+          "url": ""
+        }
+      ],
+      "license": "GNU GPLv3",
+      "name": "Simple Radio",
+      "version": "1.20.1-4.5.7.9",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/simple-radio",
+      "download_url": "https://cdn.modrinth.com/data/S7b8mMXS/versions/etr8iUWv/simpleradio-forge-1.20.1-4.5.7.9.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "S7b8mMXS",
+          "version": "etr8iUWv"
+        }
+      },
+      "metadata_path": "mods/simple-radio.pw.toml"
+    },
+    {
+      "path": "mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "kind": "mods",
+      "filename": "simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "bytes": 15765792,
+      "sha1": "7e8b9cc255f57df9ed00b507435308d600aebc24",
+      "sha256": "642e385ffda914f1b9411f0a457fe5fb5e05aa160dc44392dec9a549c2bcec21",
+      "sha512": "f4ba377dc5a3cfa99859933c45746f2c730e5fa2b7a0af40fc3b93a396fa3f671799231af0286e9766e5629a334105f1ede63668a3aa9fff72fbf5f97a76ac61",
+      "mods": [
+        {
+          "id": "simplyswords",
+          "name": "Simply Swords",
+          "version": "1.70.2-1.20.1",
+          "url": ""
+        }
+      ],
+      "license": "Timefall Development License",
+      "name": "Simply Swords",
+      "version": "1.70.2-1.20.1",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/simply-swords",
+      "download_url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/Na6e94J1/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "bK3Ubu9p",
+          "version": "Na6e94J1"
+        }
+      },
+      "metadata_path": "mods/simply-swords.pw.toml"
+    },
+    {
+      "path": "mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "kind": "mods",
+      "filename": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "bytes": 5418741,
+      "sha1": "6f437b9269a171bf88eb6215f0dfab6e614f9f00",
+      "sha256": "a50357b4982132522f48afc6fa625c453359390f8180e4c72f6288ecd46dee3c",
+      "sha512": "802790a630344de51c74f30e02ac1a2454b6dbc8450e7ea0101495a9196a7d320ad746b4a4628fa43f6e615b6bf15acd9574791c69c4ce5caea756e71dfc5895",
+      "mods": [
+        {
+          "id": "simplytooltips",
+          "name": "Simply Tooltips",
+          "version": "0.1.5-1.20.1",
+          "url": ""
+        }
+      ],
+      "license": "Timefall Development License 1.2",
+      "name": "Simply Tooltips",
+      "version": "0.1.5-1.20.1",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/simply-tooltips",
+      "download_url": "https://cdn.modrinth.com/data/6avVoBVB/versions/s87jNabF/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "6avVoBVB",
+          "version": "s87jNabF"
+        }
+      },
+      "metadata_path": "mods/simply-tooltips.pw.toml"
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.11.3-mc1.20.1.jar",
+      "kind": "mods",
+      "filename": "skinlayers3d-forge-1.11.3-mc1.20.1.jar",
+      "bytes": 2093560,
+      "sha1": "066d8ce36155f0018e30e905240fc12e422972e9",
+      "sha256": "6229ea6e5d77dd1f66d21163bf3187abb899d59f508dae63ab67ecbb0f804cc5",
+      "sha512": "1703ae352f5533680e04c5b80c26dd1c101a428ad32f6d2127fa38e5d43fa940752ee247118db9a07d3974dd86814bf2c27bf6a7c5ddc5cbfec16edc6c4451a9",
+      "mods": [
+        {
+          "id": "skinlayers3d",
+          "name": "3d-Skin-Layers",
+          "version": "1.11.3",
+          "url": "https://modrinth.com/mod/3dskinlayers"
+        }
+      ],
+      "license": "tr7zw Protective License",
+      "name": "3D Skin Layers",
+      "version": "1.11.3",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/3dskinlayers",
+      "download_url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/WLmoJVE7/skinlayers3d-forge-1.11.3-mc1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "zV5r3pPn",
+          "version": "WLmoJVE7"
+        }
+      },
+      "metadata_path": "mods/3dskinlayers.pw.toml"
+    },
+    {
+      "path": "mods/sleep_deprived-1.1.2-forge-1.20.1.jar",
+      "kind": "mods",
+      "filename": "sleep_deprived-1.1.2-forge-1.20.1.jar",
+      "bytes": 203122,
+      "sha1": "df34031d12fa565a1781bbac0f75b27d0d75cec9",
+      "sha256": "f7749169d18ef5520ea6948bf59179ba877446ff30407cdcb0f7e10cbd85334a",
+      "sha512": "07ec11de46298459dea2b6419c353d07ab7f21429cd939f928a0927591ad40250840ea5cb1209e33c5228945950238e30a34d63679ab509ca34a0251a9004007",
+      "mods": [
+        {
+          "id": "sleep_deprived",
+          "name": "Sleep Deprived",
+          "version": "1.1.2",
+          "url": "https://shrt.solutions"
+        }
+      ],
+      "license": "GNU General Public License version 3 (GPLv3)",
+      "name": "Sleep Deprived",
+      "version": "1.1.2",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/sleep_deprived",
+      "download_url": "https://cdn.modrinth.com/data/P06uanFZ/versions/56mVVeo2/sleep_deprived-1.1.2-forge-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "P06uanFZ",
+          "version": "56mVVeo2"
+        }
+      },
+      "metadata_path": "mods/sleep_deprived.pw.toml"
+    },
+    {
+      "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "kind": "mods",
+      "filename": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "bytes": 511601,
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+      "sha256": "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
+      "sha512": "b8527199be5a8b4bc758a4f320586b5886e6ff657718f52d464386b1e3c695d7bfe644e2ef9487a869c93c0866818995ecd47b9e1a19054929242682e37f58b7",
+      "mods": [
+        {
+          "id": "sodiumdynamiclights",
+          "name": "Sodium Dynamic Lights",
+          "version": "1.0.9",
+          "url": "https://github.com/txnimc/SodiumDynamicLights/"
+        }
+      ],
+      "license": "MIT",
+      "name": "Sodium Dynamic Lights",
+      "version": "forge-1.20.1-1.0.10",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/sodium-dynamic-lights",
+      "download_url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/I156ee3A/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "PxQSWIcD",
+          "version": "I156ee3A"
+        }
+      },
+      "metadata_path": "mods/sodium-dynamic-lights.pw.toml"
+    },
+    {
+      "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "kind": "mods",
+      "filename": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "bytes": 443978,
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
+      "sha256": "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
+      "sha512": "20b11f1582df3df3d351e0cffcfc8b97453e2d73164fbad46d3f4eb960cab57d8f708d84b818782ef019d5cd9494ce001161f753623680516a191d6f510ebb79",
+      "mods": [
+        {
+          "id": "sodiumoptionsapi",
+          "name": "Sodium Options API",
+          "version": "1.0.10",
+          "url": "https://github.com/txnimc/SodiumOptionsAPI/"
+        }
+      ],
+      "license": "LGPLv3",
+      "name": "Sodium Options API",
+      "version": "forge-1.20.1-1.0.10",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/sodium-options-api",
+      "download_url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/d0EFLitO/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "Es5v4eyq",
+          "version": "d0EFLitO"
+        }
+      },
+      "metadata_path": "mods/sodium-options-api.pw.toml"
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "kind": "mods",
+      "filename": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "bytes": 206984,
+      "sha1": "aef2c02392624f0a12475ada809366b12ac9ec52",
+      "sha256": "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c",
+      "sha512": "f6759a7049947b4e114f754a49dcdab7d7b5f194b5bd531182ac30a2cdddb58576cd56ad65b5688f03aa42d7f24d342ee3a9b7f5474b9e0463f986d5fd62d555",
+      "mods": [
+        {
+          "id": "sound_physics_remastered",
+          "name": "Sound Physics Remastered",
+          "version": "1.20.1-1.5.1",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered"
+        }
+      ],
+      "license": "GPL",
+      "name": "Sound Physics Remastered",
+      "version": "1.20.1-1.5.1",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 7032235,
+          "project-id": 535489
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7032235",
+      "metadata_path": "mods/sound-physics-remastered.pw.toml"
+    },
+    {
+      "path": "mods/starterkit-1.20.1-8.1.jar",
+      "kind": "mods",
+      "filename": "starterkit-1.20.1-8.1.jar",
+      "bytes": 185835,
+      "sha1": "4eb8a9f28d32dfb678c6cfed1d992a9ededa842d",
+      "sha256": "e543d1dc48a27015921e832591248f325b034e81546c1c3d977b2769dac0a385",
+      "sha512": "385e40ad8ba60e8a82274c9e2e30c8382f7634202d16e067c751f39023933cd58736ab27241179a18135d9eabecc09419082059a2774c639fe8159720b596bc7",
+      "mods": [
+        {
+          "id": "starterkit",
+          "name": "Starter Kit",
+          "version": "8.1",
+          "url": "https://serilum.com/mod/starter-kit"
+        }
+      ],
+      "license": "All rights reserved",
+      "name": "Starter Kit",
+      "version": "1.20.1-8.1-fabric+forge+neo",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/starter-kit",
+      "download_url": "https://cdn.modrinth.com/data/6L3ydNi8/versions/7Jgf2aNZ/starterkit-1.20.1-8.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "6L3ydNi8",
+          "version": "7Jgf2aNZ"
+        }
+      },
+      "metadata_path": "mods/starter-kit.pw.toml"
+    },
+    {
+      "path": "mods/stop_placing_offhand_torches-alpha-0.1.0.jar",
+      "kind": "mods",
+      "filename": "stop_placing_offhand_torches-alpha-0.1.0.jar",
+      "bytes": 35610,
+      "sha1": "5395a027ab7d388b865cc2e812763d4e18e14ecc",
+      "sha256": "7a860840cacd9126ebcf5bcbf77211aa8bc2d61f84f5a4b9e6aab5c6ee49eabb",
+      "sha512": "9727bc593ed440ba278527ae0432ebd5d67839f22dd5415d167abfda9aa2b7d667cf52ebd3ab463082021e7210eb63e8486e9a7e337fc74af71f3c79886ffbc0",
+      "mods": [
+        {
+          "id": "stop_placing_offhand_torches",
+          "name": "Stop Placing Off-hand Torches",
+          "version": "0.1.0",
+          "url": "https://mcreator.net"
+        }
+      ],
+      "license": "MIT License",
+      "name": "Stop Off-Hand Torch Placement",
+      "version": "0.1.0",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 5108994,
+          "project-id": 974900
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/stop-off-hand-torch-placement/files/5108994",
+      "metadata_path": "mods/stop-off-hand-torch-placement.pw.toml"
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "kind": "mods",
+      "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "bytes": 107532,
+      "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+      "sha256": "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
+      "sha512": "ef0c98e3d652f420a08a8d4205661ecb61c990ff19fabe04b9a0334b6a1bc671079dde74199a847e25df96f2a8262a35f37a0fca3c8fec95f7139074734ff8f5",
+      "mods": [
+        {
+          "id": "terrablender",
+          "name": "TerraBlender",
+          "version": "3.0.1.10",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender"
+        }
+      ],
+      "license": "LGPLv3",
+      "name": "TerraBlender (Forge)",
+      "version": "3.0.1.10",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 6290448,
+          "project-id": 563928
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/terrablender/files/6290448",
+      "metadata_path": "mods/terrablender.pw.toml"
+    },
+    {
+      "path": "mods/ToolBelt-1.20.1-1.20.03.jar",
+      "kind": "mods",
+      "filename": "ToolBelt-1.20.1-1.20.03.jar",
+      "bytes": 253933,
+      "sha1": "486038e2b0e075c48f325a7665ad0f3149f7632c",
+      "sha256": "9c1b8c52d848055d7a4c60989f5b36247431c11d84a2e2975bb1ccfca2663030",
+      "sha512": "a295339bf029b8155cb60077b1e0a2e2bd665df0c8f70b37195d5459c50d64417089d2d1a70ce4be56c50b8f228f9b868c31b72245ed0ca43a4fc9045835099f",
+      "mods": [
+        {
+          "id": "toolbelt",
+          "name": "Tool Belt",
+          "version": "1.20.03",
+          "url": "https://github.com/gigaherz/ToolBelt"
+        }
+      ],
+      "license": "BSD (3 clause)",
+      "name": "Tool Belt",
+      "version": "1.20.03",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 7906260,
+          "project-id": 260262
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/tool-belt/files/7906260",
+      "metadata_path": "mods/tool-belt.pw.toml"
+    },
+    {
+      "path": "mods/Toxicity-forge-0.1.0.jar",
+      "kind": "mods",
+      "filename": "Toxicity-forge-0.1.0.jar",
+      "bytes": 21424,
+      "sha1": "13992b94a27b343afabde42a87adf5a51b9f0228",
+      "sha256": "53fcb25029ba88ec1bda9f55a44c76aada67e8408dbe21ee8ecc2638e31fcf4f",
+      "sha512": "415651e8fdab6371ef06911815a6bb5fbd6777638b400b5b864d8d3d1b2011d8e620db32632d6934d679962cde2cd0077b2106c9515f3b941a2c04d1dd964d83",
+      "mods": [
+        {
+          "id": "toxicity",
+          "name": "Toxicity",
+          "version": "0.1.0",
+          "url": ""
+        }
+      ],
+      "license": "ARR",
+      "name": "Toxicity",
+      "version": "0.1.0",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/toxicity-mod",
+      "download_url": "https://cdn.modrinth.com/data/pPPLJpNs/versions/m9DL9Wxe/Toxicity-forge-0.1.0.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "pPPLJpNs",
+          "version": "m9DL9Wxe"
+        }
+      },
+      "metadata_path": "mods/toxicity-mod.pw.toml"
+    },
+    {
+      "path": "mods/travelersbackpack-forge-1.20.1-9.1.57.jar",
+      "kind": "mods",
+      "filename": "travelersbackpack-forge-1.20.1-9.1.57.jar",
+      "bytes": 1415748,
+      "sha1": "d1caba3478107a55b0a6439eefd3781a7d97df44",
+      "sha256": "d4a8c60bad3bf58f6020661809d97541df86e7e091daeda547a994dc5a8cfcf1",
+      "sha512": "4103b32e46a60ef9cc89209e57ec2c347914577a5250abb60494b2ac9c7d6d82bb68424e74485023dcb7152be36fe8c384e574c05c45f166f7171a5260e60054",
+      "mods": [
+        {
+          "id": "travelersbackpack",
+          "name": "Traveler's Backpack",
+          "version": "9.1.57",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/travelers-backpack"
+        }
+      ],
+      "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+      "name": "Traveler's Backpack",
+      "version": "1.20.1-9.1.57",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/travelersbackpack",
+      "download_url": "https://cdn.modrinth.com/data/rlloIFEV/versions/wuJ2J0SL/travelersbackpack-forge-1.20.1-9.1.57.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "rlloIFEV",
+          "version": "wuJ2J0SL"
+        }
+      },
+      "metadata_path": "mods/travelersbackpack.pw.toml"
+    },
+    {
+      "path": "mods/trmt-0.5.1b-1.20.1-forge.jar",
+      "kind": "mods",
+      "filename": "trmt-0.5.1b-1.20.1-forge.jar",
+      "bytes": 133648,
+      "sha1": "e7ee07397c502cfbc7c589db5fb5b88eb40982e6",
+      "sha256": "f93ce88322cfe4e1636d83e2a536ec9acd032f217b5ed9a3312acbe6ae804d5c",
+      "sha512": "1b7d0a044bd7ee40305628795ec9b57d405f2be2d9c3b91ab29ecae299c444ac88a9cf92415e28aa964ac4e238dc4bfe27ecf9a3edea753dcbf9e08ddac8ca6c",
+      "mods": [
+        {
+          "id": "trmt",
+          "name": "The Roads More Travelled",
+          "version": "0.5.1b-1.20.1-forge",
+          "url": ""
+        }
+      ],
+      "license": "CC-BY-NC-4.0",
+      "name": "The Roads More Travelled [TRMT]",
+      "version": "0.5.1b-1.20.1-forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/the-roads-more-travelled",
+      "download_url": "https://cdn.modrinth.com/data/74oZhrEe/versions/IF9Bui2r/trmt-0.5.1b-1.20.1-forge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "74oZhrEe",
+          "version": "IF9Bui2r"
+        }
+      },
+      "metadata_path": "mods/the-roads-more-travelled.pw.toml"
+    },
+    {
+      "path": "mods/txnilib-forge-1.0.24-1.20.1.jar",
+      "kind": "mods",
+      "filename": "txnilib-forge-1.0.24-1.20.1.jar",
+      "bytes": 3743339,
+      "sha1": "a1e16b7d61f0f16a162d429ee1eab9b4e3eeb9ef",
+      "sha256": "71ca69345ef763903213e0b0db3c9c07d2a090ad311d1de66c31798a813a9d0e",
+      "sha512": "06881ae202d9903909c34a1742f38308f7a04e4ed9c5eb3bd09441920d2666c6f4ee54b38ed3688b612ade5a06d2a35b45fad8a232c4e8f7f6bf527f082f6bc9",
+      "mods": [
+        {
+          "id": "txnilib",
+          "name": "TxniLib",
+          "version": "1.0.24",
+          "url": "https://github.com/txnimc/TxniLib/"
+        }
+      ],
+      "license": "MIT",
+      "name": "TxniLib",
+      "version": "forge-1.20.1-1.0.24",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/txnilib",
+      "download_url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/kQ8qnDHA/txnilib-forge-1.0.24-1.20.1.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "vBbPDuOs",
+          "version": "kQ8qnDHA"
+        }
+      },
+      "metadata_path": "mods/txnilib.pw.toml"
+    },
+    {
+      "path": "mods/UndergroundBunkers-1.0.5-1.20.x-forge.jar",
+      "kind": "mods",
+      "filename": "UndergroundBunkers-1.0.5-1.20.x-forge.jar",
+      "bytes": 642308,
+      "sha1": "026fdd7ca5336437913ee2612c2523b11fa4174d",
+      "sha256": "b9f9a25648f6abf3747c4f1e9c0a0438baac474c71ad5b0981a8613481982d58",
+      "sha512": "946e4555ed1e49876afa72ea8efbe87760c0f50622eeab55c6693f5bc8bee26c49f83189a817ef50b9363d87ca053435d911a9ec03150661827d7baf5b85039d",
+      "mods": [
+        {
+          "id": "underground_bunkers",
+          "name": "Underground Bunkers",
+          "version": "1.0.5",
+          "url": ""
+        }
+      ],
+      "license": "All Rights Reserved",
+      "name": "Underground Bunkers",
+      "version": "1.0.5",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/underground-bunkers",
+      "download_url": "https://cdn.modrinth.com/data/MRK4tULJ/versions/NFJEQGsD/UndergroundBunkers-1.0.5-1.20.x-forge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "MRK4tULJ",
+          "version": "NFJEQGsD"
+        }
+      },
+      "metadata_path": "mods/underground-bunkers.pw.toml"
+    },
+    {
+      "path": "mods/UndergroundVillages-forge-1.20.1-2.1.0.jar",
+      "kind": "mods",
+      "filename": "UndergroundVillages-forge-1.20.1-2.1.0.jar",
+      "bytes": 282271,
+      "sha1": "d8f42c17703c91b5d23c782fdd1f1289280c3f3e",
+      "sha256": "7b02799a380aa2d28f19c68197ac3bc9686e6bb25813f5984bdcfa9265de39f4",
+      "sha512": "c7fa7b5c8e70a5434b89f6b8ae2c00652db4cb16aa7f82fd191d7624b4716425a44f7101f09a0933301d6cb938dbdb6fecf84973dd601f9524978a1e72e26a26",
+      "mods": [
+        {
+          "id": "underground_villages",
+          "name": "Underground Villages Mod",
+          "version": "2.1.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/underground-villages"
+        }
+      ],
+      "license": "MIT",
+      "name": "Underground Villages",
+      "version": "2.1.0",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 4954861,
+          "project-id": 606989
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/underground-villages/files/4954861",
+      "metadata_path": "mods/underground-villages.pw.toml"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.24.jar",
+      "kind": "mods",
+      "filename": "voicechat-forge-1.20.1-2.6.24.jar",
+      "bytes": 4939842,
+      "sha1": "b8a455d047f9913078f244c815f557123ba59891",
+      "sha256": "27836959ce2d5b6879cb9dc2b9a698fa7434c8641e46290e98fd8641b732dc4a",
+      "sha512": "d8c7e4dfece364581868adeb9c4431f198ec8732bbc9fefb31ee5df6f09fd1ca4e9957d8c34fe1fa02ea214a66303d6855985f0744e0ec51d1e3148f7dd8b0db",
+      "mods": [
+        {
+          "id": "voicechat",
+          "name": "Simple Voice Chat",
+          "version": "1.20.1-2.6.24",
+          "url": "https://modrepo.de/minecraft/voicechat/overview"
+        },
+        {
+          "id": "voicechat_api",
+          "name": "Simple Voice Chat API",
+          "version": "2.6.24",
+          "url": "https://voicechat.modrepo.de/"
+        }
+      ],
+      "license": "All rights reserved",
+      "name": "Simple Voice Chat",
+      "version": "1.20.1-2.6.24",
+      "source": "CurseForge",
+      "side": "both",
+      "update": {
+        "curseforge": {
+          "file-id": 8928453,
+          "project-id": 416089
+        }
+      },
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/8928453",
+      "metadata_path": "mods/simple-voice-chat.pw.toml"
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "kind": "mods",
+      "filename": "worldedit-mod-7.2.15.jar",
+      "bytes": 5825402,
+      "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "sha512": "2c41dcd9a622f948ed5409eecc485018fbf274945bdd1a9c0fdf4c4954f9a47dc311e6e0f9e445180d8b771e4a40947533d67bd66feb4ab8c8f87c2880dba7ef",
+      "mods": [
+        {
+          "id": "worldedit",
+          "name": "WorldEdit",
+          "version": "7.2.15+6463-5ca4dff",
+          "url": "https://enginehub.org/worldedit/"
+        }
+      ],
+      "license": "GPL",
+      "name": "WorldEdit",
+      "version": "7.2.15",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/worldedit",
+      "download_url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/Wrlqaul6/worldedit-mod-7.2.15.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "1u6JkXh5",
+          "version": "Wrlqaul6"
+        }
+      },
+      "metadata_path": "mods/worldedit.pw.toml"
+    },
+    {
+      "path": "mods/WorldEditCUI-1.20+01.jar",
+      "kind": "mods",
+      "filename": "WorldEditCUI-1.20+01.jar",
+      "bytes": 168681,
+      "sha1": "5f0676a7369999e7414e7b2ab4f90da1f51471d4",
+      "sha256": "6e1edd597a62bd70b552925b0d97fcee4527d93300d107554aaf087b98348f09",
+      "sha512": "72d5eb0bdb2fdb21b5a19a65208fc07f8e92c32976b614e5b293677e0801fdc42a01d10e82345f63fec5a89f21b016c077dd98ef94d7c56c7a83a9114cdf3630",
+      "mods": [
+        {
+          "id": "worldeditcui",
+          "name": "WorldEditCUI",
+          "version": "1.20+01",
+          "url": "https://github.com/EngineHub/WorldEditCUI"
+        }
+      ],
+      "license": "EPL-1.0",
+      "name": "WorldEdit CUI (Unofficial Forge Port)",
+      "version": "1.20+01",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/mod/worldeditcui-forge",
+      "download_url": "https://cdn.modrinth.com/data/lOELapP1/versions/SRJCpmta/WorldEditCUI-1.20%2B01.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "lOELapP1",
+          "version": "SRJCpmta"
+        }
+      },
+      "metadata_path": "mods/worldeditcui-forge.pw.toml"
+    },
+    {
+      "path": "mods/xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "kind": "mods",
+      "filename": "xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "bytes": 1425022,
+      "sha1": "4906476a6a0a7e64772db17b3e707fdd4bbbc0fb",
+      "sha256": "e00bd87a949cfa8c31d571f4d9646db038e3b98f8cdbb7bd217f3fb9c3780c9e",
+      "sha512": "634f6607dd731d2fef936adbbb3bf16818cf524d78ad8934d3132604276800546e64da2110d8a741df565c3de43cee24d698ac5fac3d588ff925eba43e46ce4c",
+      "mods": [
+        {
+          "id": "xaeroworldmap",
+          "name": "Xaero's World Map",
+          "version": "1.46.0",
+          "url": ""
+        }
+      ],
+      "license": "All Rights Reserved",
+      "name": "Xaero's World Map",
+      "version": "forge-1.20.1-1.46.0",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/xaeros-world-map",
+      "download_url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rlPmwaQX/xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "NcUtCpym",
+          "version": "rlPmwaQX"
+        }
+      },
+      "metadata_path": "mods/xaeros-world-map.pw.toml"
+    },
+    {
+      "path": "mods/YetAnotherConfigLib-3.4.2+1.20.1-forge.jar",
+      "kind": "mods",
+      "filename": "YetAnotherConfigLib-3.4.2+1.20.1-forge.jar",
+      "bytes": 1075392,
+      "sha1": "ec643c76385479d7e4b4018869f4b2759d14c298",
+      "sha256": "190998d77f4aaf91a16ba3697a9e43f9e142674d85eada0514f4478469826b8c",
+      "sha512": "5205dd6e906d1ea16fdb265369add596e5aa3c9528146691b4c67d22a4dc24b25a01156ba484019e30b29e8d0554d765c00c4165a1fd086bae0db0d609fd5e1c",
+      "mods": [
+        {
+          "id": "yet_another_config_lib_v3",
+          "name": "YetAnotherConfigLib",
+          "version": "3.4.2+1.20.1-forge",
+          "url": ""
+        }
+      ],
+      "license": "LGPL-3.0-or-later",
+      "name": "YetAnotherConfigLib (YACL)",
+      "version": "3.4.2+1.20.1-forge",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/yacl",
+      "download_url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/lALu7fvN/YetAnotherConfigLib-3.4.2%2B1.20.1-forge.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "1eAoo2KR",
+          "version": "lALu7fvN"
+        }
+      },
+      "metadata_path": "mods/yacl.pw.toml"
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "kind": "mods",
+      "filename": "YungsApi-1.20-Forge-4.0.6.jar",
+      "bytes": 370524,
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+      "sha512": "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889",
+      "mods": [
+        {
+          "id": "yungsapi",
+          "name": "YUNG's API",
+          "version": "1.20-Forge-4.0.6",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api"
+        }
+      ],
+      "license": "LGPLv3",
+      "name": "YUNG's API",
+      "version": "1.20-Forge-4.0.6",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/yungs-api",
+      "download_url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "Ua7DFN59",
+          "version": "PJOYAmAs"
+        }
+      },
+      "metadata_path": "mods/yungs-api.pw.toml"
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "kind": "mods",
+      "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "bytes": 792381,
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+      "sha256": "93c24e4075c51da0866f3fc92322bdb60e590ac2cd78dce275460839c54c36f5",
+      "sha512": "56bd11a7aca3bacb908381a668af8f5b574c5557c21370ace783d637c949802187110a4f5dc26afae4d9af74cdf64cee81d59fac3513a9bec3f921193fc938b8",
+      "mods": [
+        {
+          "id": "betterdungeons",
+          "name": "YUNG's Better Dungeons",
+          "version": "1.20-Forge-4.0.4",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons"
+        }
+      ],
+      "license": "LGPLv3",
+      "name": "YUNG's Better Dungeons",
+      "version": "1.20-Forge-4.0.4",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/yungs-better-dungeons",
+      "download_url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "o1C1Dkj5",
+          "version": "kPiQ6v4q"
+        }
+      },
+      "metadata_path": "mods/yungs-better-dungeons.pw.toml"
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "kind": "mods",
+      "filename": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "bytes": 387111,
+      "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
+      "sha256": "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83",
+      "sha512": "a51b76fc41d19276bea2ebe081b153d3be53c502ef9de93593990f8b7bf644e3e4fd4cff17477abce16692f23aff3077be1762606f10ca1058771741ad652e2e",
+      "mods": [
+        {
+          "id": "betterendisland",
+          "name": "YUNG's Better End Island",
+          "version": "1.20-Forge-2.0.6",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island"
+        }
+      ],
+      "license": "LGPLv3",
+      "name": "YUNG's Better End Island",
+      "version": "1.20-Forge-2.0.6",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/yungs-better-end-island",
+      "download_url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Izqhg3Va/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "2BwBOmBQ",
+          "version": "Izqhg3Va"
+        }
+      },
+      "metadata_path": "mods/yungs-better-end-island.pw.toml"
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "kind": "mods",
+      "filename": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "bytes": 492998,
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+      "sha256": "6632e7bcc58325098e85bcb755483de7cb3af92a5ea548f3b5c0162cbf0dc1dc",
+      "sha512": "1e8237e0fc4dd7e00a3ad30c5c02a82eeed63aed4544310cfdee863ac95b626874773f599779b985e6e460869804c036e1336c2720fbb34a3b09445434c063c8",
+      "mods": [
+        {
+          "id": "bettermineshafts",
+          "name": "YUNG's Better Mineshafts",
+          "version": "1.20-Forge-4.0.4",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge"
+        }
+      ],
+      "license": "LGPLv3",
+      "name": "YUNG's Better Mineshafts",
+      "version": "1.20-Forge-4.0.4",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/yungs-better-mineshafts",
+      "download_url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "HjmxVlSr",
+          "version": "kVO57zxB"
+        }
+      },
+      "metadata_path": "mods/yungs-better-mineshafts.pw.toml"
+    },
+    {
+      "path": "mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "kind": "mods",
+      "filename": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "bytes": 13014967,
+      "sha1": "c0a57a7d5a0cea0297f82a482490fc1e7933695f",
+      "sha256": "b799668cbbc0903e885f5b638119d0221186e5dbfe812eaf391f86ab8a97bd42",
+      "sha512": "c09d75eec4a9e4245e2f0a7cb0b64b6da70ccd46b3d351c2d6baded3deb2f15f6980229be40cc85557b2ccd468f5a4d6b74bb28190723647076aba49bebcaf36",
+      "mods": [
+        {
+          "id": "yungscavebiomes",
+          "name": "YUNG's Cave Biomes",
+          "version": "1.20.1-Forge-2.0.5",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes"
+        }
+      ],
+      "license": "All Rights Reserved",
+      "name": "YUNG's Cave Biomes",
+      "version": "1.20.1-Forge-2.0.5",
+      "source": "Modrinth",
+      "side": "both",
+      "project_url": "https://modrinth.com/mod/yungs-cave-biomes",
+      "download_url": "https://cdn.modrinth.com/data/cs7iGVq1/versions/UzIwhtOp/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "update": {
+        "modrinth": {
+          "mod-id": "cs7iGVq1",
+          "version": "UzIwhtOp"
+        }
+      },
+      "metadata_path": "mods/yungs-cave-biomes.pw.toml"
+    },
+    {
+      "path": "resourcepacks/Last Death Location - 1.0.2.zip",
+      "kind": "resourcepacks",
+      "filename": "Last Death Location - 1.0.2.zip",
+      "bytes": 34061,
+      "sha1": "0931ee0d1b9d2824b05ab835acd578ccf20b03ac",
+      "sha256": "5c758e569301c452a673f8260a77f0a7ea291ac8c1a12deea4dfca55ed06f89f",
+      "sha512": "34af9a205a3797b58b6e0b33b4649ab79b97340ba20f6b5610dbad8f6e81e5cb969812bd8cdff43cdef6564a83975cabc02892492ba4ec971f79c74ba5bb8f40",
+      "name": "Last Death Location",
+      "version": "1.0.2+1.20",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/resourcepack/last-death-location",
+      "download_url": "https://cdn.modrinth.com/data/zQj6JND7/versions/sppqqIg3/Last%20Death%20Location%20-%201.0.2.zip",
+      "update": {
+        "modrinth": {
+          "mod-id": "zQj6JND7",
+          "version": "sppqqIg3"
+        }
+      },
+      "metadata_path": "resourcepacks/last-death-location.pw.toml"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+      "kind": "shaderpacks",
+      "filename": "ComplementaryReimagined_r5.9.3.zip",
+      "bytes": 553397,
+      "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6",
+      "sha256": "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38",
+      "sha512": "45304b1d7862afdb2177b7e6226fc9c6737911d17a4ad46cc9c519ca4deb935f05072cd337cd8b19a15bb8062b57b54eceec7bdee4cd572d94858e2946d37d85",
+      "name": "Complementary Shaders - Reimagined",
+      "version": "r5.9.3",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/shader/complementary-reimagined",
+      "download_url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip",
+      "update": {
+        "modrinth": {
+          "mod-id": "HVnmMxH1",
+          "version": "Bqen1mJX"
+        }
+      },
+      "metadata_path": "shaderpacks/complementary-reimagined.pw.toml"
+    },
+    {
+      "path": "shaderpacks/Reverie Beta v0.9.zip",
+      "kind": "shaderpacks",
+      "filename": "Reverie Beta v0.9.zip",
+      "bytes": 3651778,
+      "sha1": "4ea40813fc70ec74e0f66b26da6864989f9ec9ce",
+      "sha256": "0ef682c8962683f03d61fc2d840ebcf88992f5f6f0f4609293b824466a3badd7",
+      "sha512": "66a3b520c555021b30d8ac2b17afbed05299b08a9149e0f28955cd498cdd708b7fe7eac2f654cab47ec7f1902884b95f9aaa59a156d45b046f26ab745737247b",
+      "name": "Reverie",
+      "version": "v0.9",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/shader/reverie_shader",
+      "download_url": "https://cdn.modrinth.com/data/frac8sks/versions/rHSmG5ci/Reverie%20Beta%20v0.9.zip",
+      "update": {
+        "modrinth": {
+          "mod-id": "frac8sks",
+          "version": "rHSmG5ci"
+        }
+      },
+      "metadata_path": "shaderpacks/reverie_shader.pw.toml"
+    },
+    {
+      "path": "shaderpacks/Sildur's Vibrant Shaders v2.02 Extreme.zip",
+      "kind": "shaderpacks",
+      "filename": "Sildur's Vibrant Shaders v2.02 Extreme.zip",
+      "bytes": 251371,
+      "sha1": "2362f4dd27178879c30374c8f33965999bc350c8",
+      "sha256": "824504bc937f9570277c0a809f5059ae4a5fe70c413cf4459b6ccff4dfed7ebe",
+      "sha512": "da6d9cfdfaedfe96741f7b61d69a650d4b2f7a02f744b9e0935873135b9b9fff74ea73c44c74c22c828e7a42783e25db767d5ef867d47f4d907e5aedb1294971",
+      "name": "Sildur's Vibrant Shaders",
+      "version": "2.02",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/shader/sildurs-vibrant-shaders",
+      "download_url": "https://cdn.modrinth.com/data/z8EjLYqN/versions/J4RlzpKF/Sildur%27s%20Vibrant%20Shaders%20v2.02%20Extreme.zip",
+      "update": {
+        "modrinth": {
+          "mod-id": "z8EjLYqN",
+          "version": "J4RlzpKF"
+        }
+      },
+      "metadata_path": "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+    },
+    {
+      "path": "shaderpacks/Solas Shader V3.7b.zip",
+      "kind": "shaderpacks",
+      "filename": "Solas Shader V3.7b.zip",
+      "bytes": 1252311,
+      "sha1": "abf2e33feae040cc91894aea11e6d30750d50ee9",
+      "sha256": "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825",
+      "sha512": "5c184091c2d9b1d8ee0f4f7eb720fdcd9e2f4aea5a0d7a425927f205ee6d1a3577ad1411176d3705b5945e1f39d81a50cac479ed6f2054d49d90a6002f2878d9",
+      "name": "Solas Shader",
+      "version": "3.7b",
+      "source": "Modrinth",
+      "side": "client",
+      "project_url": "https://modrinth.com/shader/solas-shader",
+      "download_url": "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip",
+      "update": {
+        "modrinth": {
+          "mod-id": "EpQFjzrQ",
+          "version": "KcfQaN5J"
+        }
+      },
+      "metadata_path": "shaderpacks/solas-shader.pw.toml"
+    }
+  ]
+}
