@@ -2,9 +2,9 @@
 
 Export reçu le 2 octobre 2026 : **78 fichiers de mods, 4 shaders et 1 pack de ressources**.
 
-Minecraft **1.20.1** · Forge **47.4.23** · Pack **1.0.0**.
+Minecraft **1.20.1** · Forge **47.4.23** · Pack **1.0.1**.
 
-Les références de téléchargement ont été identifiées à partir des empreintes des fichiers de l’export. Les 83 fichiers sont inchangés.
+Les références de téléchargement ont été identifiées à partir des empreintes des fichiers de l’export. 82 fichiers de contenu sont inchangés. Easy NPC Bundle reste en 7.12.1 et provient désormais du Modrinth officiel ; seul son horodatage de compilation diffère.
 
 La version indiquée vient de Modrinth lorsqu’elle est disponible, sinon des métadonnées du JAR. Le nom du fichier et son empreinte font foi pour identifier le fichier exact.
 
@@ -38,7 +38,7 @@ Cet inventaire décrit l’instance des joueurs fournie. La classification compl
 | Deeper and Darker | 1.3.3-forge+1.20.1 | `deeperdarker-forge-1.20.1-1.3.3.jar` | [Modrinth](https://modrinth.com/mod/deeperdarker) |
 | Deeper Caves | 1.2.7 | `DeeperCaves-1.20.1-1.2.7.jar` | [Modrinth](https://modrinth.com/mod/deeper_caves) |
 | Double Doors | 1.20.1-7.2-fabric+forge+neo | `doubledoors-1.20.1-7.2.jar` | [Modrinth](https://modrinth.com/mod/double-doors) |
-| Easy NPC | 7.12.1 | `easy_npc_bundle-forge-1.20.1-7.12.1.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-npc/files/8840908) |
+| Easy NPC | 7.12.1 | `easy_npc_bundle-forge-1.20.1-7.12.1.jar` | [Modrinth](https://modrinth.com/mod/easy-npc/version/KWOV0VKY) |
 | Easy NPC: Config UI | 7.12.1 | `easy_npc_config_ui-forge-1.20.1-7.12.1.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-npc-config-ui/files/8840904) |
 | Easy NPC: Core | 7.12.1 | `easy_npc-forge-1.20.1-7.12.1.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-npc-core/files/8840901) |
 | Embeddium | 0.3.31+mc1.20.1 | `embeddium-0.3.31+mc1.20.1.jar` | [Modrinth](https://modrinth.com/mod/embeddium) |

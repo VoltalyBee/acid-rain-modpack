@@ -1,5 +1,17 @@
 # Acid Rain
 
+## Correction 1.0.1 : installation sans téléchargement individuel
+
+Easy NPC Bundle 7.12.1 utilise maintenant le Modrinth officiel de son auteur. Le code et les ressources sont identiques au fichier de l’export ; seul l’horodatage du manifeste change.
+
+Le ZIP Prism fourni contient les deux fichiers originaux qui provoquaient la fenêtre de téléchargement manuel : Advanced Stands et Easy NPC Bundle. Il permet d’installer le pack actuel sans récupérer ces deux fichiers à la main. Après publication de 1.0.1, Easy NPC Bundle sera remplacé automatiquement par son équivalent Modrinth.
+
+Advanced Stands est épinglé à sa version actuelle pour éviter qu’une mise à jour générale n’introduise une nouvelle demande manuelle. Sa page CurseForge indique « All Rights Reserved », alors que les métadonnées du JAR indiquent « Apache 2.0 ». Cette divergence doit être clarifiée avec l’auteur avant de réhéberger publiquement ce mod ou ses futures versions.
+
+Pour rendre aussi ses futures mises à jour automatiques, l’auteur peut autoriser les téléchargements tiers sur CurseForge, publier une source alternative autorisée, ou accorder une permission de réhébergement. Inclure le fichier actuel dans le ZIP initial ne distribue pas ses futures versions aux instances déjà installées.
+
+Les fichiers de `docs` conservent leurs octets lors des commits Git ; les empreintes de l’index sont recalculées pour la copie publiée, y compris les configurations converties en fins de ligne LF par GitHub Desktop.
+
 Pack destiné aux joueurs du serveur Acid Rain de VoltalyBee.
 
 - Minecraft : **1.20.1**

@@ -1,0 +1,2 @@
+# Keep the exact bytes referenced by the packwiz index.
+docs/** -text
